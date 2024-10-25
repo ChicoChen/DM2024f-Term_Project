@@ -1,0 +1,28 @@
+欄位名稱,資料類型,缺失數,唯一值個數,處理
+Lithography process (nm),float64,6,10,已補齊
+Neural processor (NPU),int64,0,2,
+Total score,int64,0,656,
+RAM size (GB),int64,0,7,
+Memory type,object,2,5,眾數
+Memory clock,float64,94,15,drop
+Channels,float64,3,3,眾數
+Storage size (GB),int64,0,6,
+Storage type,object,7,7,眾數
+Memory card,object,2,3,眾數
+OS suppoert (years),float64,303,3,drop
+Battery capacity (mAh),int64,0,86,
+Max charge power,float64,5,34,
+Battery type,object,10,2,眾數
+Battery replaceability,object,0,2,
+Wireless charging,int64,0,2,
+Reverse charging,int64,0,2,
+Fast charging,int64,0,2,
+Full charging time (min),float64,38,145,平均
+Web browsing (min),float64,244,246,drop
+Watching video (min),float64,244,271,drop
+Gaming (min),float64,244,159,drop
+Standby (hr),float64,244,87,drop
+Matrix (megapixels),float64,0,19,
+Zoom,object,0,2,
+Flash,object,0,3,
+Stabilization,object,0,3,
