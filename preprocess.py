@@ -3,8 +3,8 @@ from functools import reduce
 import numpy as np
 from sklearn.preprocessing import OneHotEncoder
 #read csv and seperate it as a list of length 4;
-PATH = "/data/nanoreview_phone_specs (processed).csv"
-data = pd.read_csv("./data/nanoreview_phone_specs (processed).csv")
+PATH = "G:/nanoreview_phone_specs (processed).csv"
+data = pd.read_csv("G:/nanoreview_phone_specs (processed).csv")
 data_list= [data.iloc[:, i:i+27] for i in range(0, 108, 27)]
 
 #TODO: process each portion of data
@@ -94,4 +94,4 @@ data_merged = reduce(lambda  left,right: pd.merge(left, right, how='inner', left
 
 #TODO: drop rows and save [result].csv;
 print(data_merged.shape)
-data_merged.to_csv("./data/processed.csv")
+data_merged.to_csv("G:/processed.csv")
