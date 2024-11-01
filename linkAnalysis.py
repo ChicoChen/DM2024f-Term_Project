@@ -6,7 +6,14 @@ from itertools import chain, combinations
 from collections import defaultdict, namedtuple
 
 from optparse import OptionParser
-def formDataSet(dataframe,price_column):
+def formDataSet(dataframe, price_column, numeric_columns):
+    bin_info = {}
+    for col in numeric_columns:
+        dataframe[col], bins = pd.qcut(dataframe[col], q=4, labels=False, retbins=True)
+        bin_info[col] = bins  # Store bin edges for the column
+
+    print(bin_info)
+
     for col in dataframe.columns:
         dataframe[col] = dataframe[col].apply(lambda x: f"{col}_{x}")
     dataframe = dataframe.iloc[:, 1:]
@@ -144,8 +151,14 @@ if __name__ == "__main__":
     
     data = pd.read_csv("./data/processed(merged version).csv")
     print(f"data.shape: {data.shape}")
+
     factor = data.shape[1] - 2
-    df = formDataSet(data, "Launch price category")
+    #"Touch sampling rate" and "Max rated brightness", "Matrix (megapixels)" seems irrelated in current result
+    numeric_columns = \
+        ["Total Score", "CPU", "GPU", "Memory", "UX", "PPI", \
+        "Height (mm)", "Width (mm)", "Thickness (mm)", "Weight (gr)", \
+        "Phone age in days"]
+    df = formDataSet(data, "Launch price category", numeric_columns)
     print(f"new data.shape: {df.shape}")
     df = df.values.tolist()
     records = inputGenerator(df)
@@ -166,6 +179,6 @@ if __name__ == "__main__":
     itemSet, transactionList = getItemSetTransactionList(records)
     items, candidates = runApriori(itemSet, transactionList, minSupport)
     endTime = time.process_time()
-    exportResults(items, "./data/apriori", "result1.txt", factor)
+    exportResults(items, "./data/apriori", "result2_numericLabelized_0.03.txt", factor)
     print(f"execution time: {endTime - startTime}")
 
