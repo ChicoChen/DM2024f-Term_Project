@@ -3,7 +3,7 @@ import re
 # 讀取 CSV 檔案
 file_path = 'C:/Users/user/Downloads/nanoreview_phone_specs (processed).csv'
 df = pd.read_csv(file_path)
-df = df.iloc[:, :27]
+
 df['Brand'] = pd.Categorical(df['Brand'], categories=df['Brand'].unique(), ordered=True)
 df['Brand'] = df['Brand'].cat.codes
 df['Type'] = pd.Categorical(df['Type'], categories=df['Type'].unique(), ordered=True)
