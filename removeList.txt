@@ -1,0 +1,47 @@
+removed:
+    Accelerometer
+    Ambient light sensor
+    Autofocus_Phase autofocus (Dual Pixel)
+    Autofocus_Laser autofocus
+    Battery replaceability
+    Battery type
+    Bundled charger
+    Depth sensor (TOF 3D)
+    Face recognition sensor
+    Fast charging
+    Fingerprint
+    Full charging time (min)
+    Height (mm)
+    Hybrid slot
+    Infrared port
+    Multi SIM mode
+    NFC*
+    Number of SIM*
+    Stabilization
+
+troublesome/uncertain column:
+1.  "Battery capacity (mAh)": might cause overfitting
+2.  Flash
+3.  Manufacturing
+4.  Neural processor (NPU)
+5.  Proximity sensor
+6.  Rear material
+7.  Thickness (mm)
+8.  Type
+9.  weight
+10. try combine price 
+
+
+todo:
+    PPI
+    Display Size
+    Full charging time (min)
+    Max charge power
+    Max rated brightness
+    Pixel size (micron)
+    Pixels_Y / Pixels_X
+    Sensor size
+    Speakers_Stereo/Mono (立琦)
+    Touch sampling rate
+    Waterproof (林秉)
+
