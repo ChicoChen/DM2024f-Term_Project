@@ -3,7 +3,7 @@ import json
 from collections import defaultdict
 
 # Dictionary to store the result
-path = "./data/apriori/result3_numericLabelized_0.005.txt"
+path = "./data/apriori/result4_numericLabelized_0.005.txt"
 attribute_pairs = defaultdict(list)
 
 # Read the file
@@ -28,5 +28,5 @@ with open(path, "r") as file:
 attribute_pairs = dict(sorted(attribute_pairs.items()))
 
 # Display the results
-with open("result3_numericLabelized_0.005.json", "w") as file:
+with open("result4_numericLabelized_0.005.json", "w") as file:
     json.dump(attribute_pairs, file, indent=4)

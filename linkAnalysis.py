@@ -9,7 +9,7 @@ from optparse import OptionParser
 def formDataSet(dataframe, price_column, numeric_columns):
     bin_info = {}
     for col in numeric_columns:
-        dataframe[col], bins = pd.qcut(dataframe[col], q=4, labels=False, retbins=True)
+        dataframe[col], bins = pd.qcut(dataframe[col], q=4, labels=False, retbins=True, duplicates="drop")
         bin_info[col] = bins  # Store bin edges for the column
 
     print(bin_info)
@@ -149,15 +149,17 @@ def exportResults(items, filepath, filename, factor):
 if __name__ == "__main__":
     import time
     
-    data = pd.read_csv("./data/processed(merged version).csv")
+    data = pd.read_csv("./data/pruned.csv")
     print(f"data.shape: {data.shape}")
 
     factor = data.shape[1] - 2
     #"Touch sampling rate" and "Max rated brightness", "Matrix (megapixels)" seems irrelated in current result
     numeric_columns = \
         ["Total Score", "CPU", "GPU", "Memory", "UX", "PPI", \
-        "Height (mm)", "Width (mm)", "Thickness (mm)", "Weight (gr)", \
-        "Phone age in days"]
+        "Width (mm)", "Thickness (mm)", "Weight (gr)", \
+        "Phone age in days", "PPI", "Display Size", \
+        "Max charge power", "Max rated brightness", "Pixel size (micron)", \
+        "Pixels_Y", "Pixels_X", "Sensor size", "Touch sampling rate"]
     df = formDataSet(data, "Launch price category", numeric_columns)
     print(f"new data.shape: {df.shape}")
     df = df.values.tolist()
@@ -169,7 +171,7 @@ if __name__ == "__main__":
         "--minSupport",
         dest="minS",
         help="minimum support value",
-        default=0.01,
+        default=0.005,
         type="float",
     )
     (options, args) = optparser.parse_args()
@@ -179,6 +181,6 @@ if __name__ == "__main__":
     itemSet, transactionList = getItemSetTransactionList(records)
     items, candidates = runApriori(itemSet, transactionList, minSupport)
     endTime = time.process_time()
-    exportResults(items, "./data/apriori", "result2_numericLabelized_0.03.txt", factor)
+    exportResults(items, "./data/apriori", "result4_numericLabelized_0.005.txt", factor)
     print(f"execution time: {endTime - startTime}")
 
