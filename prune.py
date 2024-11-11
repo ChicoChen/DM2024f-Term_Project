@@ -14,7 +14,6 @@ removedColumns = [
     "Face recognition sensor",
     "Fast charging",
     "Fingerprint",
-    "Full charging time (min)",
     "Height (mm)",
     "Hybrid slot",
     "Infrared port",
