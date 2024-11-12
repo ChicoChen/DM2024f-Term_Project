@@ -20,7 +20,8 @@ removedColumns = [
     "Multi SIM mode",
     "NFC*",
     "Number of SIM*",
-    "Stabilization"
+    "Stabilization",
+    "Full charging time (min)"
 ]
 
 data = data.drop(columns=removedColumns)
