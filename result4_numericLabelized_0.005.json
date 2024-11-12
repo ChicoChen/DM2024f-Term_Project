@@ -1,0 +1,6322 @@
+{
+    "1080p video recording_1": [
+        [
+            "Launch price category_0.0",
+            24.0
+        ],
+        [
+            "Launch price category_1.0",
+            5.7
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ]
+    ],
+    "1080p video recording_2": [
+        [
+            "Launch price category_1.0",
+            26.5
+        ],
+        [
+            "Launch price category_2.0",
+            11.9
+        ],
+        [
+            "Launch price category_3.0",
+            10.7
+        ],
+        [
+            "Launch price category_0.0",
+            6.9
+        ],
+        [
+            "Launch price category_4.0",
+            3.3
+        ],
+        [
+            "Launch price category_5.0",
+            2.4
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ],
+        [
+            "Launch price category_nan",
+            1.5
+        ]
+    ],
+    "1080p video recording_3": [
+        [
+            "Launch price category_3.0",
+            0.6
+        ]
+    ],
+    "1080p video recording_4": [
+        [
+            "Launch price category_3.0",
+            1.1
+        ],
+        [
+            "Launch price category_2.0",
+            0.8
+        ]
+    ],
+    "4K video recording_0": [
+        [
+            "Launch price category_0.0",
+            27.8
+        ],
+        [
+            "Launch price category_1.0",
+            7.7
+        ],
+        [
+            "Launch price category_nan",
+            1.4
+        ]
+    ],
+    "4K video recording_1": [
+        [
+            "Launch price category_1.0",
+            17.6
+        ],
+        [
+            "Launch price category_2.0",
+            3.6
+        ],
+        [
+            "Launch price category_0.0",
+            3.3
+        ],
+        [
+            "Launch price category_3.0",
+            1.7
+        ]
+    ],
+    "4K video recording_2": [
+        [
+            "Launch price category_3.0",
+            10.0
+        ],
+        [
+            "Launch price category_2.0",
+            8.9
+        ],
+        [
+            "Launch price category_1.0",
+            7.7
+        ],
+        [
+            "Launch price category_4.0",
+            3.3
+        ],
+        [
+            "Launch price category_5.0",
+            2.3
+        ],
+        [
+            "Launch price category_6.0",
+            1.5
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ]
+    ],
+    "4K video recording_3": [
+        [
+            "Launch price category_3.0",
+            0.8
+        ]
+    ],
+    "5G support_0": [
+        [
+            "Launch price category_0.0",
+            22.8
+        ],
+        [
+            "Launch price category_1.0",
+            6.8
+        ],
+        [
+            "Launch price category_3.0",
+            2.7
+        ],
+        [
+            "Launch price category_2.0",
+            2.0
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ],
+        [
+            "Launch price category_4.0",
+            0.6
+        ]
+    ],
+    "5G support_1": [
+        [
+            "Launch price category_1.0",
+            26.2
+        ],
+        [
+            "Launch price category_2.0",
+            11.0
+        ],
+        [
+            "Launch price category_3.0",
+            9.7
+        ],
+        [
+            "Launch price category_0.0",
+            8.3
+        ],
+        [
+            "Launch price category_4.0",
+            3.0
+        ],
+        [
+            "Launch price category_5.0",
+            2.6
+        ],
+        [
+            "Launch price category_nan",
+            1.8
+        ],
+        [
+            "Launch price category_6.0",
+            1.5
+        ]
+    ],
+    "8K video recording_0": [
+        [
+            "Launch price category_1.0",
+            31.2
+        ],
+        [
+            "Launch price category_0.0",
+            31.1
+        ],
+        [
+            "Launch price category_2.0",
+            9.2
+        ],
+        [
+            "Launch price category_3.0",
+            5.9
+        ],
+        [
+            "Launch price category_nan",
+            2.4
+        ],
+        [
+            "Launch price category_4.0",
+            1.8
+        ],
+        [
+            "Launch price category_6.0",
+            1.2
+        ],
+        [
+            "Launch price category_5.0",
+            1.1
+        ]
+    ],
+    "8K video recording_1": [
+        [
+            "Launch price category_3.0",
+            3.3
+        ],
+        [
+            "Launch price category_4.0",
+            1.5
+        ],
+        [
+            "Launch price category_2.0",
+            1.4
+        ],
+        [
+            "Launch price category_5.0",
+            1.1
+        ],
+        [
+            "Launch price category_1.0",
+            1.1
+        ]
+    ],
+    "8K video recording_2": [
+        [
+            "Launch price category_3.0",
+            3.2
+        ],
+        [
+            "Launch price category_2.0",
+            2.4
+        ],
+        [
+            "Launch price category_1.0",
+            0.8
+        ]
+    ],
+    "Adaptive refresh rate_0": [
+        [
+            "Launch price category_0.0",
+            29.7
+        ],
+        [
+            "Launch price category_1.0",
+            24.7
+        ],
+        [
+            "Launch price category_2.0",
+            7.4
+        ],
+        [
+            "Launch price category_3.0",
+            5.9
+        ],
+        [
+            "Launch price category_nan",
+            1.7
+        ],
+        [
+            "Launch price category_4.0",
+            1.1
+        ],
+        [
+            "Launch price category_5.0",
+            0.6
+        ]
+    ],
+    "Adaptive refresh rate_1": [
+        [
+            "Launch price category_1.0",
+            8.3
+        ],
+        [
+            "Launch price category_3.0",
+            6.5
+        ],
+        [
+            "Launch price category_2.0",
+            5.6
+        ],
+        [
+            "Launch price category_4.0",
+            2.6
+        ],
+        [
+            "Launch price category_5.0",
+            2.0
+        ],
+        [
+            "Launch price category_6.0",
+            1.4
+        ],
+        [
+            "Launch price category_0.0",
+            1.4
+        ],
+        [
+            "Launch price category_nan",
+            1.1
+        ]
+    ],
+    "Advanced cooling_Active fan_0": [
+        [
+            "Launch price category_1.0",
+            33.0
+        ],
+        [
+            "Launch price category_0.0",
+            31.1
+        ],
+        [
+            "Launch price category_2.0",
+            12.1
+        ],
+        [
+            "Launch price category_3.0",
+            11.9
+        ],
+        [
+            "Launch price category_4.0",
+            3.6
+        ],
+        [
+            "Launch price category_nan",
+            2.7
+        ],
+        [
+            "Launch price category_5.0",
+            2.6
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ]
+    ],
+    "Advanced cooling_Active fan_1": [
+        [
+            "Launch price category_2.0",
+            0.9
+        ]
+    ],
+    "Advanced cooling_Vapor chamber_0": [
+        [
+            "Launch price category_0.0",
+            30.8
+        ],
+        [
+            "Launch price category_1.0",
+            23.4
+        ],
+        [
+            "Launch price category_2.0",
+            8.7
+        ],
+        [
+            "Launch price category_3.0",
+            6.6
+        ],
+        [
+            "Launch price category_nan",
+            2.0
+        ],
+        [
+            "Launch price category_4.0",
+            1.7
+        ],
+        [
+            "Launch price category_5.0",
+            0.6
+        ],
+        [
+            "Launch price category_6.0",
+            0.6
+        ]
+    ],
+    "Advanced cooling_Vapor chamber_1": [
+        [
+            "Launch price category_1.0",
+            9.7
+        ],
+        [
+            "Launch price category_3.0",
+            5.7
+        ],
+        [
+            "Launch price category_2.0",
+            4.2
+        ],
+        [
+            "Launch price category_4.0",
+            2.0
+        ],
+        [
+            "Launch price category_5.0",
+            2.0
+        ],
+        [
+            "Launch price category_6.0",
+            1.1
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Advanced cooling_nan_0": [
+        [
+            "Launch price category_1.0",
+            9.7
+        ],
+        [
+            "Launch price category_3.0",
+            6.2
+        ],
+        [
+            "Launch price category_2.0",
+            5.1
+        ],
+        [
+            "Launch price category_4.0",
+            2.0
+        ],
+        [
+            "Launch price category_5.0",
+            2.0
+        ],
+        [
+            "Launch price category_6.0",
+            1.1
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Advanced cooling_nan_1": [
+        [
+            "Launch price category_0.0",
+            30.8
+        ],
+        [
+            "Launch price category_1.0",
+            23.4
+        ],
+        [
+            "Launch price category_2.0",
+            7.8
+        ],
+        [
+            "Launch price category_3.0",
+            6.2
+        ],
+        [
+            "Launch price category_nan",
+            2.0
+        ],
+        [
+            "Launch price category_4.0",
+            1.7
+        ],
+        [
+            "Launch price category_6.0",
+            0.6
+        ],
+        [
+            "Launch price category_5.0",
+            0.6
+        ]
+    ],
+    "Aperture_1.7": [
+        [
+            "Launch price category_3.0",
+            0.8
+        ],
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Aperture_1.8": [
+        [
+            "Launch price category_0.0",
+            0.8
+        ]
+    ],
+    "Aperture_1.9": [
+        [
+            "Launch price category_3.0",
+            0.6
+        ]
+    ],
+    "Aperture_2.0": [
+        [
+            "Launch price category_0.0",
+            13.6
+        ],
+        [
+            "Launch price category_1.0",
+            5.9
+        ],
+        [
+            "Launch price category_2.0",
+            4.1
+        ],
+        [
+            "Launch price category_3.0",
+            3.3
+        ],
+        [
+            "Launch price category_5.0",
+            0.9
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Aperture_2.1": [
+        [
+            "Launch price category_0.0",
+            1.4
+        ],
+        [
+            "Launch price category_1.0",
+            1.1
+        ]
+    ],
+    "Aperture_2.2": [
+        [
+            "Launch price category_1.0",
+            7.7
+        ],
+        [
+            "Launch price category_0.0",
+            7.1
+        ],
+        [
+            "Launch price category_3.0",
+            3.9
+        ],
+        [
+            "Launch price category_2.0",
+            1.7
+        ],
+        [
+            "Launch price category_4.0",
+            1.5
+        ],
+        [
+            "Launch price category_6.0",
+            1.1
+        ],
+        [
+            "Launch price category_nan",
+            0.6
+        ]
+    ],
+    "Aperture_2.4": [
+        [
+            "Launch price category_1.0",
+            8.6
+        ],
+        [
+            "Launch price category_2.0",
+            3.6
+        ],
+        [
+            "Launch price category_0.0",
+            2.3
+        ],
+        [
+            "Launch price category_3.0",
+            1.5
+        ],
+        [
+            "Launch price category_5.0",
+            0.8
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ]
+    ],
+    "Aperture_2.5": [
+        [
+            "Launch price category_1.0",
+            8.3
+        ],
+        [
+            "Launch price category_0.0",
+            3.9
+        ],
+        [
+            "Launch price category_2.0",
+            2.0
+        ],
+        [
+            "Launch price category_3.0",
+            1.8
+        ]
+    ],
+    "Aperture_2.6": [
+        [
+            "Launch price category_0.0",
+            0.6
+        ],
+        [
+            "Launch price category_1.0",
+            0.6
+        ]
+    ],
+    "Autofocus_Phase autofocus_0": [
+        [
+            "Launch price category_0.0",
+            30.9
+        ],
+        [
+            "Launch price category_1.0",
+            30.6
+        ],
+        [
+            "Launch price category_2.0",
+            10.4
+        ],
+        [
+            "Launch price category_3.0",
+            8.7
+        ],
+        [
+            "Launch price category_nan",
+            2.6
+        ],
+        [
+            "Launch price category_5.0",
+            1.8
+        ],
+        [
+            "Launch price category_4.0",
+            1.4
+        ],
+        [
+            "Launch price category_6.0",
+            1.1
+        ]
+    ],
+    "Autofocus_Phase autofocus_1": [
+        [
+            "Launch price category_3.0",
+            3.6
+        ],
+        [
+            "Launch price category_2.0",
+            2.6
+        ],
+        [
+            "Launch price category_1.0",
+            2.4
+        ],
+        [
+            "Launch price category_4.0",
+            2.3
+        ],
+        [
+            "Launch price category_5.0",
+            0.8
+        ],
+        [
+            "Launch price category_6.0",
+            0.6
+        ]
+    ],
+    "Barometer_0": [
+        [
+            "Launch price category_0.0",
+            30.5
+        ],
+        [
+            "Launch price category_1.0",
+            29.4
+        ],
+        [
+            "Launch price category_2.0",
+            8.7
+        ],
+        [
+            "Launch price category_3.0",
+            5.0
+        ],
+        [
+            "Launch price category_nan",
+            2.7
+        ],
+        [
+            "Launch price category_4.0",
+            1.2
+        ],
+        [
+            "Launch price category_5.0",
+            1.2
+        ]
+    ],
+    "Barometer_1": [
+        [
+            "Launch price category_3.0",
+            7.4
+        ],
+        [
+            "Launch price category_2.0",
+            4.2
+        ],
+        [
+            "Launch price category_1.0",
+            3.6
+        ],
+        [
+            "Launch price category_4.0",
+            2.4
+        ],
+        [
+            "Launch price category_5.0",
+            1.4
+        ],
+        [
+            "Launch price category_6.0",
+            1.2
+        ],
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Battery capacity (mAh)_3700": [
+        [
+            "Launch price category_3.0",
+            0.8
+        ]
+    ],
+    "Battery capacity (mAh)_4000": [
+        [
+            "Launch price category_0.0",
+            1.8
+        ],
+        [
+            "Launch price category_3.0",
+            1.1
+        ],
+        [
+            "Launch price category_1.0",
+            1.1
+        ]
+    ],
+    "Battery capacity (mAh)_4200": [
+        [
+            "Launch price category_2.0",
+            0.6
+        ]
+    ],
+    "Battery capacity (mAh)_4300": [
+        [
+            "Launch price category_1.0",
+            0.8
+        ]
+    ],
+    "Battery capacity (mAh)_4400": [
+        [
+            "Launch price category_6.0",
+            0.6
+        ]
+    ],
+    "Battery capacity (mAh)_4500": [
+        [
+            "Launch price category_1.0",
+            3.6
+        ],
+        [
+            "Launch price category_2.0",
+            2.7
+        ],
+        [
+            "Launch price category_3.0",
+            1.2
+        ],
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Battery capacity (mAh)_4600": [
+        [
+            "Launch price category_1.0",
+            1.2
+        ],
+        [
+            "Launch price category_2.0",
+            0.8
+        ]
+    ],
+    "Battery capacity (mAh)_4700": [
+        [
+            "Launch price category_3.0",
+            0.6
+        ]
+    ],
+    "Battery capacity (mAh)_5000": [
+        [
+            "Launch price category_0.0",
+            21.9
+        ],
+        [
+            "Launch price category_1.0",
+            16.4
+        ],
+        [
+            "Launch price category_2.0",
+            2.7
+        ],
+        [
+            "Launch price category_3.0",
+            1.4
+        ],
+        [
+            "Launch price category_5.0",
+            1.2
+        ],
+        [
+            "Launch price category_4.0",
+            1.1
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Battery capacity (mAh)_5020": [
+        [
+            "Launch price category_0.0",
+            0.8
+        ]
+    ],
+    "Battery capacity (mAh)_5050": [
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Battery capacity (mAh)_5500": [
+        [
+            "Launch price category_1.0",
+            1.7
+        ],
+        [
+            "Launch price category_3.0",
+            0.6
+        ]
+    ],
+    "Battery capacity (mAh)_6000": [
+        [
+            "Launch price category_0.0",
+            2.6
+        ],
+        [
+            "Launch price category_1.0",
+            0.8
+        ]
+    ],
+    "Battery capacity (mAh)_7000": [
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Bokeh mode_0": [
+        [
+            "Launch price category_0.0",
+            1.5
+        ]
+    ],
+    "Bokeh mode_1": [
+        [
+            "Launch price category_1.0",
+            32.6
+        ],
+        [
+            "Launch price category_0.0",
+            29.6
+        ],
+        [
+            "Launch price category_2.0",
+            12.7
+        ],
+        [
+            "Launch price category_3.0",
+            12.1
+        ],
+        [
+            "Launch price category_4.0",
+            3.6
+        ],
+        [
+            "Launch price category_nan",
+            2.6
+        ],
+        [
+            "Launch price category_5.0",
+            2.6
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ]
+    ],
+    "Brand_0": [
+        [
+            "Launch price category_0.0",
+            2.4
+        ],
+        [
+            "Launch price category_1.0",
+            0.9
+        ]
+    ],
+    "Brand_1": [
+        [
+            "Launch price category_3.0",
+            1.4
+        ],
+        [
+            "Launch price category_1.0",
+            1.1
+        ],
+        [
+            "Launch price category_2.0",
+            0.6
+        ]
+    ],
+    "Brand_10": [
+        [
+            "Launch price category_0.0",
+            1.1
+        ]
+    ],
+    "Brand_11": [
+        [
+            "Launch price category_0.0",
+            3.8
+        ],
+        [
+            "Launch price category_1.0",
+            0.8
+        ]
+    ],
+    "Brand_12": [
+        [
+            "Launch price category_1.0",
+            2.1
+        ],
+        [
+            "Launch price category_3.0",
+            0.8
+        ],
+        [
+            "Launch price category_2.0",
+            0.8
+        ],
+        [
+            "Launch price category_nan",
+            0.6
+        ]
+    ],
+    "Brand_13": [
+        [
+            "Launch price category_1.0",
+            1.2
+        ],
+        [
+            "Launch price category_2.0",
+            1.2
+        ],
+        [
+            "Launch price category_3.0",
+            0.9
+        ],
+        [
+            "Launch price category_4.0",
+            0.6
+        ]
+    ],
+    "Brand_14": [
+        [
+            "Launch price category_1.0",
+            3.6
+        ],
+        [
+            "Launch price category_0.0",
+            3.0
+        ],
+        [
+            "Launch price category_2.0",
+            0.8
+        ]
+    ],
+    "Brand_15": [
+        [
+            "Launch price category_3.0",
+            0.9
+        ]
+    ],
+    "Brand_16": [
+        [
+            "Launch price category_nan",
+            0.6
+        ]
+    ],
+    "Brand_2": [
+        [
+            "Launch price category_0.0",
+            8.4
+        ],
+        [
+            "Launch price category_1.0",
+            7.2
+        ],
+        [
+            "Launch price category_2.0",
+            1.5
+        ],
+        [
+            "Launch price category_3.0",
+            0.9
+        ],
+        [
+            "Launch price category_5.0",
+            0.8
+        ]
+    ],
+    "Brand_3": [
+        [
+            "Launch price category_0.0",
+            3.6
+        ],
+        [
+            "Launch price category_1.0",
+            2.7
+        ],
+        [
+            "Launch price category_2.0",
+            1.7
+        ],
+        [
+            "Launch price category_3.0",
+            0.8
+        ]
+    ],
+    "Brand_4": [
+        [
+            "Launch price category_1.0",
+            2.6
+        ],
+        [
+            "Launch price category_0.0",
+            1.4
+        ],
+        [
+            "Launch price category_2.0",
+            0.6
+        ]
+    ],
+    "Brand_5": [
+        [
+            "Launch price category_0.0",
+            6.2
+        ],
+        [
+            "Launch price category_1.0",
+            4.8
+        ],
+        [
+            "Launch price category_3.0",
+            3.9
+        ],
+        [
+            "Launch price category_2.0",
+            1.7
+        ],
+        [
+            "Launch price category_4.0",
+            1.1
+        ],
+        [
+            "Launch price category_6.0",
+            0.8
+        ]
+    ],
+    "Brand_6": [
+        [
+            "Launch price category_1.0",
+            2.9
+        ],
+        [
+            "Launch price category_2.0",
+            1.7
+        ],
+        [
+            "Launch price category_3.0",
+            0.6
+        ],
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Brand_7": [
+        [
+            "Launch price category_3.0",
+            0.6
+        ]
+    ],
+    "Brand_8": [
+        [
+            "Launch price category_2.0",
+            1.2
+        ]
+    ],
+    "Brand_9": [
+        [
+            "Launch price category_1.0",
+            1.8
+        ],
+        [
+            "Launch price category_2.0",
+            0.6
+        ],
+        [
+            "Launch price category_3.0",
+            0.6
+        ]
+    ],
+    "CPU_0": [
+        [
+            "Launch price category_0.0",
+            19.0
+        ],
+        [
+            "Launch price category_1.0",
+            3.5
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ],
+        [
+            "Launch price category_3.0",
+            0.8
+        ],
+        [
+            "Launch price category_2.0",
+            0.6
+        ]
+    ],
+    "CPU_1": [
+        [
+            "Launch price category_1.0",
+            11.5
+        ],
+        [
+            "Launch price category_0.0",
+            11.2
+        ],
+        [
+            "Launch price category_2.0",
+            1.2
+        ],
+        [
+            "Launch price category_3.0",
+            0.9
+        ]
+    ],
+    "CPU_2": [
+        [
+            "Launch price category_1.0",
+            11.5
+        ],
+        [
+            "Launch price category_2.0",
+            5.3
+        ],
+        [
+            "Launch price category_3.0",
+            3.9
+        ],
+        [
+            "Launch price category_4.0",
+            1.4
+        ],
+        [
+            "Launch price category_0.0",
+            0.9
+        ],
+        [
+            "Launch price category_5.0",
+            0.8
+        ],
+        [
+            "Launch price category_6.0",
+            0.6
+        ],
+        [
+            "Launch price category_nan",
+            0.6
+        ]
+    ],
+    "CPU_3": [
+        [
+            "Launch price category_3.0",
+            6.8
+        ],
+        [
+            "Launch price category_1.0",
+            6.6
+        ],
+        [
+            "Launch price category_2.0",
+            5.9
+        ],
+        [
+            "Launch price category_4.0",
+            2.1
+        ],
+        [
+            "Launch price category_5.0",
+            1.8
+        ],
+        [
+            "Launch price category_6.0",
+            1.1
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Category_0": [
+        [
+            "Launch price category_0.0",
+            15.7
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ]
+    ],
+    "Category_1": [
+        [
+            "Launch price category_1.0",
+            27.3
+        ],
+        [
+            "Launch price category_0.0",
+            15.4
+        ],
+        [
+            "Launch price category_2.0",
+            2.0
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ]
+    ],
+    "Category_2": [
+        [
+            "Launch price category_3.0",
+            12.2
+        ],
+        [
+            "Launch price category_2.0",
+            11.0
+        ],
+        [
+            "Launch price category_1.0",
+            5.6
+        ],
+        [
+            "Launch price category_4.0",
+            3.6
+        ],
+        [
+            "Launch price category_5.0",
+            2.6
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ],
+        [
+            "Launch price category_nan",
+            0.6
+        ]
+    ],
+    "Channels_1": [
+        [
+            "Launch price category_0.0",
+            2.1
+        ]
+    ],
+    "Channels_2": [
+        [
+            "Launch price category_0.0",
+            29.0
+        ],
+        [
+            "Launch price category_1.0",
+            23.7
+        ],
+        [
+            "Launch price category_2.0",
+            5.3
+        ],
+        [
+            "Launch price category_3.0",
+            4.2
+        ],
+        [
+            "Launch price category_nan",
+            1.8
+        ],
+        [
+            "Launch price category_4.0",
+            1.1
+        ]
+    ],
+    "Channels_4": [
+        [
+            "Launch price category_1.0",
+            9.2
+        ],
+        [
+            "Launch price category_3.0",
+            8.1
+        ],
+        [
+            "Launch price category_2.0",
+            7.4
+        ],
+        [
+            "Launch price category_4.0",
+            2.6
+        ],
+        [
+            "Launch price category_5.0",
+            2.0
+        ],
+        [
+            "Launch price category_6.0",
+            1.5
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ]
+    ],
+    "Compass_0": [
+        [
+            "Launch price category_0.0",
+            6.9
+        ]
+    ],
+    "Compass_1": [
+        [
+            "Launch price category_1.0",
+            32.7
+        ],
+        [
+            "Launch price category_0.0",
+            24.1
+        ],
+        [
+            "Launch price category_2.0",
+            13.0
+        ],
+        [
+            "Launch price category_3.0",
+            12.4
+        ],
+        [
+            "Launch price category_4.0",
+            3.6
+        ],
+        [
+            "Launch price category_5.0",
+            2.6
+        ],
+        [
+            "Launch price category_nan",
+            2.3
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ]
+    ],
+    "Display Size_0": [
+        [
+            "Launch price category_0.0",
+            12.5
+        ],
+        [
+            "Launch price category_1.0",
+            8.6
+        ],
+        [
+            "Launch price category_3.0",
+            5.0
+        ],
+        [
+            "Launch price category_2.0",
+            3.2
+        ]
+    ],
+    "Display Size_1": [
+        [
+            "Launch price category_1.0",
+            11.0
+        ],
+        [
+            "Launch price category_0.0",
+            10.3
+        ],
+        [
+            "Launch price category_2.0",
+            3.3
+        ],
+        [
+            "Launch price category_3.0",
+            1.7
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Display Size_2": [
+        [
+            "Launch price category_1.0",
+            8.9
+        ],
+        [
+            "Launch price category_0.0",
+            3.8
+        ],
+        [
+            "Launch price category_3.0",
+            2.6
+        ],
+        [
+            "Launch price category_2.0",
+            2.3
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ],
+        [
+            "Launch price category_5.0",
+            0.8
+        ]
+    ],
+    "Display Size_3": [
+        [
+            "Launch price category_0.0",
+            4.5
+        ],
+        [
+            "Launch price category_1.0",
+            4.5
+        ],
+        [
+            "Launch price category_2.0",
+            4.2
+        ],
+        [
+            "Launch price category_3.0",
+            3.2
+        ],
+        [
+            "Launch price category_4.0",
+            2.1
+        ],
+        [
+            "Launch price category_6.0",
+            1.5
+        ],
+        [
+            "Launch price category_5.0",
+            1.5
+        ],
+        [
+            "Launch price category_nan",
+            1.4
+        ]
+    ],
+    "Display features_0": [
+        [
+            "Launch price category_1.0",
+            14.6
+        ],
+        [
+            "Launch price category_2.0",
+            8.1
+        ],
+        [
+            "Launch price category_3.0",
+            5.3
+        ],
+        [
+            "Launch price category_5.0",
+            1.8
+        ],
+        [
+            "Launch price category_4.0",
+            1.7
+        ],
+        [
+            "Launch price category_0.0",
+            1.5
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ]
+    ],
+    "Display features_1": [
+        [
+            "Launch price category_1.0",
+            7.2
+        ],
+        [
+            "Launch price category_3.0",
+            6.0
+        ],
+        [
+            "Launch price category_0.0",
+            3.9
+        ],
+        [
+            "Launch price category_2.0",
+            2.9
+        ],
+        [
+            "Launch price category_4.0",
+            1.7
+        ],
+        [
+            "Launch price category_6.0",
+            1.2
+        ],
+        [
+            "Launch price category_5.0",
+            0.8
+        ]
+    ],
+    "Display features_2": [
+        [
+            "Launch price category_0.0",
+            5.7
+        ],
+        [
+            "Launch price category_1.0",
+            4.4
+        ]
+    ],
+    "Display features_3": [
+        [
+            "Launch price category_0.0",
+            18.9
+        ],
+        [
+            "Launch price category_1.0",
+            3.2
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ]
+    ],
+    "Display features_4": [
+        [
+            "Launch price category_1.0",
+            2.9
+        ],
+        [
+            "Launch price category_2.0",
+            0.9
+        ],
+        [
+            "Launch price category_3.0",
+            0.9
+        ],
+        [
+            "Launch price category_0.0",
+            0.9
+        ]
+    ],
+    "Display features_6": [
+        [
+            "Launch price category_1.0",
+            0.6
+        ]
+    ],
+    "Dolby Atmos_0": [
+        [
+            "Launch price category_0.0",
+            17.8
+        ],
+        [
+            "Launch price category_1.0",
+            11.6
+        ],
+        [
+            "Launch price category_2.0",
+            3.2
+        ],
+        [
+            "Launch price category_3.0",
+            2.4
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ],
+        [
+            "Launch price category_nan",
+            0.6
+        ]
+    ],
+    "Dolby Atmos_1": [
+        [
+            "Launch price category_1.0",
+            21.4
+        ],
+        [
+            "Launch price category_0.0",
+            13.3
+        ],
+        [
+            "Launch price category_3.0",
+            10.0
+        ],
+        [
+            "Launch price category_2.0",
+            9.8
+        ],
+        [
+            "Launch price category_4.0",
+            2.9
+        ],
+        [
+            "Launch price category_5.0",
+            2.1
+        ],
+        [
+            "Launch price category_nan",
+            2.1
+        ],
+        [
+            "Launch price category_6.0",
+            1.2
+        ]
+    ],
+    "FM radio_0": [
+        [
+            "Launch price category_1.0",
+            25.3
+        ],
+        [
+            "Launch price category_2.0",
+            12.5
+        ],
+        [
+            "Launch price category_3.0",
+            12.2
+        ],
+        [
+            "Launch price category_0.0",
+            8.9
+        ],
+        [
+            "Launch price category_4.0",
+            3.5
+        ],
+        [
+            "Launch price category_5.0",
+            2.3
+        ],
+        [
+            "Launch price category_nan",
+            2.1
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ]
+    ],
+    "FM radio_1": [
+        [
+            "Launch price category_0.0",
+            22.2
+        ],
+        [
+            "Launch price category_1.0",
+            7.7
+        ],
+        [
+            "Launch price category_nan",
+            0.6
+        ]
+    ],
+    "Fingerprint scanner_0": [
+        [
+            "Launch price category_1.0",
+            21.0
+        ],
+        [
+            "Launch price category_2.0",
+            10.6
+        ],
+        [
+            "Launch price category_3.0",
+            9.4
+        ],
+        [
+            "Launch price category_0.0",
+            3.3
+        ],
+        [
+            "Launch price category_4.0",
+            3.0
+        ],
+        [
+            "Launch price category_5.0",
+            2.1
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ]
+    ],
+    "Fingerprint scanner_1": [
+        [
+            "Launch price category_0.0",
+            21.4
+        ],
+        [
+            "Launch price category_1.0",
+            10.0
+        ],
+        [
+            "Launch price category_2.0",
+            2.0
+        ],
+        [
+            "Launch price category_3.0",
+            1.8
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ],
+        [
+            "Launch price category_4.0",
+            0.6
+        ]
+    ],
+    "Fingerprint scanner_2": [
+        [
+            "Launch price category_0.0",
+            4.4
+        ],
+        [
+            "Launch price category_1.0",
+            2.1
+        ],
+        [
+            "Launch price category_3.0",
+            0.9
+        ]
+    ],
+    "Fingerprint scanner_3": [
+        [
+            "Launch price category_0.0",
+            2.0
+        ]
+    ],
+    "Flash_1": [
+        [
+            "Launch price category_0.0",
+            24.7
+        ],
+        [
+            "Launch price category_1.0",
+            21.7
+        ],
+        [
+            "Launch price category_3.0",
+            5.9
+        ],
+        [
+            "Launch price category_2.0",
+            5.3
+        ],
+        [
+            "Launch price category_nan",
+            2.3
+        ],
+        [
+            "Launch price category_4.0",
+            2.3
+        ],
+        [
+            "Launch price category_5.0",
+            1.8
+        ],
+        [
+            "Launch price category_6.0",
+            0.9
+        ]
+    ],
+    "Flash_2": [
+        [
+            "Launch price category_1.0",
+            10.7
+        ],
+        [
+            "Launch price category_2.0",
+            7.7
+        ],
+        [
+            "Launch price category_3.0",
+            6.5
+        ],
+        [
+            "Launch price category_0.0",
+            3.9
+        ],
+        [
+            "Launch price category_4.0",
+            1.4
+        ],
+        [
+            "Launch price category_5.0",
+            0.8
+        ],
+        [
+            "Launch price category_6.0",
+            0.8
+        ]
+    ],
+    "Flash_4": [
+        [
+            "Launch price category_0.0",
+            2.4
+        ],
+        [
+            "Launch price category_1.0",
+            0.6
+        ]
+    ],
+    "Frame material_0": [
+        [
+            "Launch price category_0.0",
+            30.6
+        ],
+        [
+            "Launch price category_1.0",
+            25.8
+        ],
+        [
+            "Launch price category_2.0",
+            3.3
+        ],
+        [
+            "Launch price category_nan",
+            2.0
+        ]
+    ],
+    "Frame material_1": [
+        [
+            "Launch price category_3.0",
+            12.1
+        ],
+        [
+            "Launch price category_2.0",
+            9.5
+        ],
+        [
+            "Launch price category_1.0",
+            5.4
+        ],
+        [
+            "Launch price category_4.0",
+            3.5
+        ],
+        [
+            "Launch price category_5.0",
+            2.6
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Frame material_2": [
+        [
+            "Launch price category_1.0",
+            1.8
+        ]
+    ],
+    "Front camera megapixels_10.0": [
+        [
+            "Launch price category_3.0",
+            2.3
+        ],
+        [
+            "Launch price category_6.0",
+            0.9
+        ]
+    ],
+    "Front camera megapixels_12.0": [
+        [
+            "Launch price category_3.0",
+            1.8
+        ],
+        [
+            "Launch price category_4.0",
+            0.6
+        ]
+    ],
+    "Front camera megapixels_13.0": [
+        [
+            "Launch price category_0.0",
+            3.8
+        ],
+        [
+            "Launch price category_1.0",
+            1.7
+        ]
+    ],
+    "Front camera megapixels_16.0": [
+        [
+            "Launch price category_1.0",
+            14.0
+        ],
+        [
+            "Launch price category_0.0",
+            6.6
+        ],
+        [
+            "Launch price category_2.0",
+            3.3
+        ],
+        [
+            "Launch price category_3.0",
+            0.9
+        ],
+        [
+            "Launch price category_nan",
+            0.6
+        ]
+    ],
+    "Front camera megapixels_20.0": [
+        [
+            "Launch price category_1.0",
+            2.9
+        ],
+        [
+            "Launch price category_0.0",
+            0.9
+        ],
+        [
+            "Launch price category_2.0",
+            0.8
+        ]
+    ],
+    "Front camera megapixels_32.0": [
+        [
+            "Launch price category_1.0",
+            8.6
+        ],
+        [
+            "Launch price category_2.0",
+            4.8
+        ],
+        [
+            "Launch price category_3.0",
+            2.9
+        ],
+        [
+            "Launch price category_0.0",
+            2.7
+        ],
+        [
+            "Launch price category_5.0",
+            1.1
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ]
+    ],
+    "Front camera megapixels_5.0": [
+        [
+            "Launch price category_0.0",
+            5.1
+        ]
+    ],
+    "Front camera megapixels_50.0": [
+        [
+            "Launch price category_1.0",
+            2.4
+        ],
+        [
+            "Launch price category_2.0",
+            1.2
+        ]
+    ],
+    "Front camera megapixels_60.0": [
+        [
+            "Launch price category_3.0",
+            0.8
+        ]
+    ],
+    "Front camera megapixels_8.0": [
+        [
+            "Launch price category_0.0",
+            11.3
+        ],
+        [
+            "Launch price category_1.0",
+            2.4
+        ],
+        [
+            "Launch price category_3.0",
+            1.5
+        ],
+        [
+            "Launch price category_2.0",
+            1.1
+        ]
+    ],
+    "Full charging time (min)_100": [
+        [
+            "Launch price category_0.0",
+            0.8
+        ],
+        [
+            "Launch price category_2.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_110": [
+        [
+            "Launch price category_0.0",
+            0.9
+        ]
+    ],
+    "Full charging time (min)_115": [
+        [
+            "Launch price category_1.0",
+            0.8
+        ]
+    ],
+    "Full charging time (min)_120": [
+        [
+            "Launch price category_0.0",
+            1.7
+        ],
+        [
+            "Launch price category_1.0",
+            0.9
+        ]
+    ],
+    "Full charging time (min)_125": [
+        [
+            "Launch price category_0.0",
+            0.8
+        ]
+    ],
+    "Full charging time (min)_129": [
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_130": [
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_140": [
+        [
+            "Launch price category_0.0",
+            0.8
+        ]
+    ],
+    "Full charging time (min)_145": [
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_150": [
+        [
+            "Launch price category_0.0",
+            1.5
+        ]
+    ],
+    "Full charging time (min)_180": [
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_25": [
+        [
+            "Launch price category_1.0",
+            0.8
+        ]
+    ],
+    "Full charging time (min)_28": [
+        [
+            "Launch price category_1.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_32": [
+        [
+            "Launch price category_1.0",
+            1.2
+        ]
+    ],
+    "Full charging time (min)_37": [
+        [
+            "Launch price category_1.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_39": [
+        [
+            "Launch price category_1.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_40": [
+        [
+            "Launch price category_2.0",
+            0.8
+        ]
+    ],
+    "Full charging time (min)_41": [
+        [
+            "Launch price category_2.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_42": [
+        [
+            "Launch price category_1.0",
+            0.8
+        ]
+    ],
+    "Full charging time (min)_45": [
+        [
+            "Launch price category_1.0",
+            0.8
+        ]
+    ],
+    "Full charging time (min)_47": [
+        [
+            "Launch price category_1.0",
+            1.1
+        ]
+    ],
+    "Full charging time (min)_50": [
+        [
+            "Launch price category_1.0",
+            0.8
+        ]
+    ],
+    "Full charging time (min)_51": [
+        [
+            "Launch price category_1.0",
+            0.8
+        ]
+    ],
+    "Full charging time (min)_57": [
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_63": [
+        [
+            "Launch price category_1.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_65": [
+        [
+            "Launch price category_3.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_69": [
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_75": [
+        [
+            "Launch price category_1.0",
+            1.4
+        ],
+        [
+            "Launch price category_3.0",
+            1.1
+        ],
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_76": [
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_80": [
+        [
+            "Launch price category_0.0",
+            2.0
+        ],
+        [
+            "Launch price category_1.0",
+            1.7
+        ],
+        [
+            "Launch price category_nan",
+            1.5
+        ],
+        [
+            "Launch price category_3.0",
+            0.9
+        ],
+        [
+            "Launch price category_5.0",
+            0.6
+        ],
+        [
+            "Launch price category_2.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_85": [
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_87": [
+        [
+            "Launch price category_1.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_88": [
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_90": [
+        [
+            "Launch price category_3.0",
+            0.6
+        ]
+    ],
+    "Full charging time (min)_95": [
+        [
+            "Launch price category_2.0",
+            0.8
+        ]
+    ],
+    "GPU_0": [
+        [
+            "Launch price category_0.0",
+            20.4
+        ],
+        [
+            "Launch price category_1.0",
+            3.3
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ]
+    ],
+    "GPU_1": [
+        [
+            "Launch price category_1.0",
+            13.0
+        ],
+        [
+            "Launch price category_0.0",
+            10.0
+        ],
+        [
+            "Launch price category_3.0",
+            0.9
+        ],
+        [
+            "Launch price category_2.0",
+            0.9
+        ]
+    ],
+    "GPU_2": [
+        [
+            "Launch price category_1.0",
+            11.2
+        ],
+        [
+            "Launch price category_2.0",
+            6.0
+        ],
+        [
+            "Launch price category_3.0",
+            3.8
+        ],
+        [
+            "Launch price category_4.0",
+            1.4
+        ],
+        [
+            "Launch price category_5.0",
+            0.9
+        ],
+        [
+            "Launch price category_0.0",
+            0.8
+        ]
+    ],
+    "GPU_3": [
+        [
+            "Launch price category_3.0",
+            7.7
+        ],
+        [
+            "Launch price category_2.0",
+            5.9
+        ],
+        [
+            "Launch price category_1.0",
+            5.6
+        ],
+        [
+            "Launch price category_4.0",
+            2.3
+        ],
+        [
+            "Launch price category_5.0",
+            1.7
+        ],
+        [
+            "Launch price category_6.0",
+            1.2
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Gyroscope_0": [
+        [
+            "Launch price category_0.0",
+            13.0
+        ],
+        [
+            "Launch price category_1.0",
+            1.2
+        ],
+        [
+            "Launch price category_nan",
+            0.6
+        ]
+    ],
+    "Gyroscope_1": [
+        [
+            "Launch price category_1.0",
+            31.8
+        ],
+        [
+            "Launch price category_0.0",
+            18.1
+        ],
+        [
+            "Launch price category_2.0",
+            13.0
+        ],
+        [
+            "Launch price category_3.0",
+            12.4
+        ],
+        [
+            "Launch price category_4.0",
+            3.6
+        ],
+        [
+            "Launch price category_5.0",
+            2.6
+        ],
+        [
+            "Launch price category_nan",
+            2.1
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ]
+    ],
+    "HDR support_0": [
+        [
+            "Launch price category_0.0",
+            28.1
+        ],
+        [
+            "Launch price category_1.0",
+            13.1
+        ],
+        [
+            "Launch price category_nan",
+            1.7
+        ],
+        [
+            "Launch price category_2.0",
+            1.4
+        ]
+    ],
+    "HDR support_1": [
+        [
+            "Launch price category_1.0",
+            19.9
+        ],
+        [
+            "Launch price category_3.0",
+            11.9
+        ],
+        [
+            "Launch price category_2.0",
+            11.6
+        ],
+        [
+            "Launch price category_4.0",
+            3.6
+        ],
+        [
+            "Launch price category_0.0",
+            3.0
+        ],
+        [
+            "Launch price category_5.0",
+            2.6
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ],
+        [
+            "Launch price category_nan",
+            1.1
+        ]
+    ],
+    "Hall_0": [
+        [
+            "Launch price category_1.0",
+            31.1
+        ],
+        [
+            "Launch price category_0.0",
+            30.8
+        ],
+        [
+            "Launch price category_2.0",
+            11.6
+        ],
+        [
+            "Launch price category_3.0",
+            7.7
+        ],
+        [
+            "Launch price category_nan",
+            2.7
+        ],
+        [
+            "Launch price category_4.0",
+            2.4
+        ],
+        [
+            "Launch price category_5.0",
+            1.8
+        ],
+        [
+            "Launch price category_6.0",
+            0.9
+        ]
+    ],
+    "Hall_1": [
+        [
+            "Launch price category_3.0",
+            4.7
+        ],
+        [
+            "Launch price category_1.0",
+            2.0
+        ],
+        [
+            "Launch price category_2.0",
+            1.4
+        ],
+        [
+            "Launch price category_4.0",
+            1.2
+        ],
+        [
+            "Launch price category_5.0",
+            0.8
+        ],
+        [
+            "Launch price category_6.0",
+            0.8
+        ]
+    ],
+    "Headphone audio jack_0": [
+        [
+            "Launch price category_1.0",
+            18.9
+        ],
+        [
+            "Launch price category_2.0",
+            10.7
+        ],
+        [
+            "Launch price category_3.0",
+            9.2
+        ],
+        [
+            "Launch price category_4.0",
+            2.9
+        ],
+        [
+            "Launch price category_5.0",
+            2.1
+        ],
+        [
+            "Launch price category_6.0",
+            1.5
+        ],
+        [
+            "Launch price category_nan",
+            1.4
+        ],
+        [
+            "Launch price category_0.0",
+            1.1
+        ]
+    ],
+    "Headphone audio jack_1": [
+        [
+            "Launch price category_0.0",
+            30.0
+        ],
+        [
+            "Launch price category_1.0",
+            14.2
+        ],
+        [
+            "Launch price category_3.0",
+            3.2
+        ],
+        [
+            "Launch price category_2.0",
+            2.3
+        ],
+        [
+            "Launch price category_nan",
+            1.4
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ]
+    ],
+    "L3 cache (mb)_0": [
+        [
+            "Launch price category_1.0",
+            3.2
+        ],
+        [
+            "Launch price category_3.0",
+            2.7
+        ],
+        [
+            "Launch price category_2.0",
+            1.8
+        ],
+        [
+            "Launch price category_5.0",
+            0.8
+        ],
+        [
+            "Launch price category_4.0",
+            0.6
+        ]
+    ],
+    "L3 cache (mb)_1": [
+        [
+            "Launch price category_0.0",
+            25.3
+        ],
+        [
+            "Launch price category_1.0",
+            19.0
+        ],
+        [
+            "Launch price category_2.0",
+            4.2
+        ],
+        [
+            "Launch price category_3.0",
+            2.7
+        ],
+        [
+            "Launch price category_nan",
+            1.5
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ]
+    ],
+    "L3 cache (mb)_2": [
+        [
+            "Launch price category_1.0",
+            5.4
+        ],
+        [
+            "Launch price category_2.0",
+            3.0
+        ],
+        [
+            "Launch price category_3.0",
+            2.4
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ]
+    ],
+    "L3 cache (mb)_3": [
+        [
+            "Launch price category_2.0",
+            1.8
+        ],
+        [
+            "Launch price category_3.0",
+            1.7
+        ],
+        [
+            "Launch price category_1.0",
+            1.2
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ]
+    ],
+    "L3 cache (mb)_4": [
+        [
+            "Launch price category_3.0",
+            1.7
+        ],
+        [
+            "Launch price category_2.0",
+            1.1
+        ],
+        [
+            "Launch price category_5.0",
+            0.8
+        ],
+        [
+            "Launch price category_4.0",
+            0.6
+        ]
+    ],
+    "L3 cache (mb)_5": [
+        [
+            "Launch price category_0.0",
+            3.2
+        ],
+        [
+            "Launch price category_1.0",
+            2.0
+        ],
+        [
+            "Launch price category_3.0",
+            1.1
+        ],
+        [
+            "Launch price category_2.0",
+            0.8
+        ]
+    ],
+    "L3 cache (mb)_6": [
+        [
+            "Launch price category_0.0",
+            2.4
+        ],
+        [
+            "Launch price category_1.0",
+            1.1
+        ]
+    ],
+    "L3 cache (mb)_8": [
+        [
+            "Launch price category_1.0",
+            0.6
+        ]
+    ],
+    "LTE Cat*_12": [
+        [
+            "Launch price category_0.0",
+            2.9
+        ],
+        [
+            "Launch price category_1.0",
+            2.6
+        ]
+    ],
+    "LTE Cat*_13": [
+        [
+            "Launch price category_0.0",
+            4.7
+        ],
+        [
+            "Launch price category_1.0",
+            1.1
+        ]
+    ],
+    "LTE Cat*_15": [
+        [
+            "Launch price category_1.0",
+            1.4
+        ]
+    ],
+    "LTE Cat*_16": [
+        [
+            "Launch price category_3.0",
+            0.6
+        ]
+    ],
+    "LTE Cat*_18": [
+        [
+            "Launch price category_1.0",
+            12.4
+        ],
+        [
+            "Launch price category_0.0",
+            4.5
+        ],
+        [
+            "Launch price category_2.0",
+            2.3
+        ],
+        [
+            "Launch price category_3.0",
+            0.9
+        ]
+    ],
+    "LTE Cat*_20": [
+        [
+            "Launch price category_1.0",
+            13.7
+        ],
+        [
+            "Launch price category_3.0",
+            9.2
+        ],
+        [
+            "Launch price category_2.0",
+            8.3
+        ],
+        [
+            "Launch price category_0.0",
+            5.7
+        ],
+        [
+            "Launch price category_4.0",
+            2.6
+        ],
+        [
+            "Launch price category_5.0",
+            2.3
+        ],
+        [
+            "Launch price category_nan",
+            1.8
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ]
+    ],
+    "LTE Cat*_21": [
+        [
+            "Launch price category_2.0",
+            0.6
+        ]
+    ],
+    "LTE Cat*_22": [
+        [
+            "Launch price category_3.0",
+            0.8
+        ]
+    ],
+    "LTE Cat*_4": [
+        [
+            "Launch price category_0.0",
+            4.1
+        ]
+    ],
+    "LTE Cat*_6": [
+        [
+            "Launch price category_0.0",
+            0.8
+        ]
+    ],
+    "LTE Cat*_7": [
+        [
+            "Launch price category_0.0",
+            8.1
+        ]
+    ],
+    "Lithography process (nm)_10": [
+        [
+            "Launch price category_1.0",
+            1.1
+        ],
+        [
+            "Launch price category_3.0",
+            1.1
+        ]
+    ],
+    "Lithography process (nm)_11": [
+        [
+            "Launch price category_0.0",
+            0.9
+        ]
+    ],
+    "Lithography process (nm)_12": [
+        [
+            "Launch price category_0.0",
+            13.3
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ],
+        [
+            "Launch price category_1.0",
+            0.9
+        ]
+    ],
+    "Lithography process (nm)_14": [
+        [
+            "Launch price category_0.0",
+            1.5
+        ],
+        [
+            "Launch price category_1.0",
+            0.6
+        ]
+    ],
+    "Lithography process (nm)_28": [
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Lithography process (nm)_4": [
+        [
+            "Launch price category_1.0",
+            10.4
+        ],
+        [
+            "Launch price category_3.0",
+            6.9
+        ],
+        [
+            "Launch price category_2.0",
+            6.5
+        ],
+        [
+            "Launch price category_4.0",
+            2.3
+        ],
+        [
+            "Launch price category_5.0",
+            1.7
+        ],
+        [
+            "Launch price category_nan",
+            1.4
+        ],
+        [
+            "Launch price category_6.0",
+            1.2
+        ],
+        [
+            "Launch price category_0.0",
+            0.9
+        ]
+    ],
+    "Lithography process (nm)_5": [
+        [
+            "Launch price category_1.0",
+            2.3
+        ],
+        [
+            "Launch price category_2.0",
+            1.5
+        ],
+        [
+            "Launch price category_3.0",
+            1.5
+        ],
+        [
+            "Launch price category_4.0",
+            0.6
+        ]
+    ],
+    "Lithography process (nm)_6": [
+        [
+            "Launch price category_1.0",
+            11.8
+        ],
+        [
+            "Launch price category_0.0",
+            9.0
+        ],
+        [
+            "Launch price category_2.0",
+            1.2
+        ]
+    ],
+    "Lithography process (nm)_7": [
+        [
+            "Launch price category_1.0",
+            3.0
+        ],
+        [
+            "Launch price category_2.0",
+            2.7
+        ],
+        [
+            "Launch price category_3.0",
+            2.4
+        ],
+        [
+            "Launch price category_0.0",
+            1.7
+        ],
+        [
+            "Launch price category_5.0",
+            0.8
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ]
+    ],
+    "Lithography process (nm)_8": [
+        [
+            "Launch price category_1.0",
+            2.7
+        ],
+        [
+            "Launch price category_0.0",
+            2.6
+        ]
+    ],
+    "Manufacturing_0": [
+        [
+            "Launch price category_0.0",
+            23.7
+        ],
+        [
+            "Launch price category_1.0",
+            23.2
+        ],
+        [
+            "Launch price category_2.0",
+            8.3
+        ],
+        [
+            "Launch price category_3.0",
+            6.8
+        ],
+        [
+            "Launch price category_nan",
+            2.3
+        ],
+        [
+            "Launch price category_4.0",
+            2.0
+        ],
+        [
+            "Launch price category_5.0",
+            1.7
+        ],
+        [
+            "Launch price category_6.0",
+            1.1
+        ]
+    ],
+    "Manufacturing_1": [
+        [
+            "Launch price category_1.0",
+            9.4
+        ],
+        [
+            "Launch price category_0.0",
+            6.8
+        ],
+        [
+            "Launch price category_3.0",
+            5.3
+        ],
+        [
+            "Launch price category_2.0",
+            3.8
+        ],
+        [
+            "Launch price category_4.0",
+            1.5
+        ],
+        [
+            "Launch price category_5.0",
+            0.6
+        ],
+        [
+            "Launch price category_6.0",
+            0.6
+        ]
+    ],
+    "Manufacturing_3": [
+        [
+            "Launch price category_0.0",
+            0.6
+        ],
+        [
+            "Launch price category_2.0",
+            0.6
+        ]
+    ],
+    "Matrix (megapixels)_108": [
+        [
+            "Launch price category_1.0",
+            3.8
+        ],
+        [
+            "Launch price category_0.0",
+            3.6
+        ],
+        [
+            "Launch price category_2.0",
+            0.9
+        ]
+    ],
+    "Matrix (megapixels)_12": [
+        [
+            "Launch price category_3.0",
+            3.5
+        ],
+        [
+            "Launch price category_2.0",
+            1.4
+        ],
+        [
+            "Launch price category_1.0",
+            1.2
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ],
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Matrix (megapixels)_13": [
+        [
+            "Launch price category_0.0",
+            4.2
+        ]
+    ],
+    "Matrix (megapixels)_16": [
+        [
+            "Launch price category_0.0",
+            0.9
+        ]
+    ],
+    "Matrix (megapixels)_200": [
+        [
+            "Launch price category_1.0",
+            1.1
+        ]
+    ],
+    "Matrix (megapixels)_48": [
+        [
+            "Launch price category_0.0",
+            4.1
+        ],
+        [
+            "Launch price category_1.0",
+            3.9
+        ],
+        [
+            "Launch price category_2.0",
+            1.4
+        ],
+        [
+            "Launch price category_3.0",
+            0.6
+        ]
+    ],
+    "Matrix (megapixels)_50": [
+        [
+            "Launch price category_1.0",
+            14.2
+        ],
+        [
+            "Launch price category_0.0",
+            13.1
+        ],
+        [
+            "Launch price category_2.0",
+            8.1
+        ],
+        [
+            "Launch price category_3.0",
+            6.9
+        ],
+        [
+            "Launch price category_nan",
+            2.0
+        ],
+        [
+            "Launch price category_4.0",
+            1.8
+        ],
+        [
+            "Launch price category_5.0",
+            1.7
+        ],
+        [
+            "Launch price category_6.0",
+            0.8
+        ]
+    ],
+    "Matrix (megapixels)_64": [
+        [
+            "Launch price category_1.0",
+            7.2
+        ],
+        [
+            "Launch price category_0.0",
+            3.6
+        ],
+        [
+            "Launch price category_2.0",
+            0.9
+        ]
+    ],
+    "Matrix (megapixels)_8": [
+        [
+            "Launch price category_0.0",
+            0.8
+        ]
+    ],
+    "Max charge power_0": [
+        [
+            "Launch price category_0.0",
+            16.9
+        ],
+        [
+            "Launch price category_1.0",
+            5.0
+        ],
+        [
+            "Launch price category_3.0",
+            1.8
+        ],
+        [
+            "Launch price category_2.0",
+            1.2
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Max charge power_1": [
+        [
+            "Launch price category_0.0",
+            10.1
+        ],
+        [
+            "Launch price category_1.0",
+            9.4
+        ],
+        [
+            "Launch price category_3.0",
+            4.4
+        ],
+        [
+            "Launch price category_2.0",
+            3.2
+        ],
+        [
+            "Launch price category_6.0",
+            1.1
+        ],
+        [
+            "Launch price category_4.0",
+            0.9
+        ]
+    ],
+    "Max charge power_2": [
+        [
+            "Launch price category_1.0",
+            9.4
+        ],
+        [
+            "Launch price category_2.0",
+            3.8
+        ],
+        [
+            "Launch price category_0.0",
+            3.2
+        ],
+        [
+            "Launch price category_3.0",
+            2.7
+        ],
+        [
+            "Launch price category_4.0",
+            2.0
+        ],
+        [
+            "Launch price category_5.0",
+            0.9
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ],
+        [
+            "Launch price category_6.0",
+            0.6
+        ]
+    ],
+    "Max charge power_3": [
+        [
+            "Launch price category_1.0",
+            9.4
+        ],
+        [
+            "Launch price category_2.0",
+            4.8
+        ],
+        [
+            "Launch price category_3.0",
+            3.5
+        ],
+        [
+            "Launch price category_5.0",
+            1.2
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ],
+        [
+            "Launch price category_0.0",
+            0.9
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ]
+    ],
+    "Max rated brightness_0": [
+        [
+            "Launch price category_0.0",
+            19.0
+        ],
+        [
+            "Launch price category_1.0",
+            14.2
+        ],
+        [
+            "Launch price category_2.0",
+            4.8
+        ],
+        [
+            "Launch price category_3.0",
+            2.6
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ],
+        [
+            "Launch price category_6.0",
+            0.6
+        ]
+    ],
+    "Max rated brightness_1": [
+        [
+            "Launch price category_0.0",
+            4.2
+        ],
+        [
+            "Launch price category_1.0",
+            1.4
+        ],
+        [
+            "Launch price category_3.0",
+            1.1
+        ],
+        [
+            "Launch price category_2.0",
+            0.8
+        ]
+    ],
+    "Max rated brightness_2": [
+        [
+            "Launch price category_1.0",
+            10.0
+        ],
+        [
+            "Launch price category_0.0",
+            6.0
+        ],
+        [
+            "Launch price category_3.0",
+            4.4
+        ],
+        [
+            "Launch price category_2.0",
+            3.0
+        ],
+        [
+            "Launch price category_4.0",
+            1.8
+        ],
+        [
+            "Launch price category_5.0",
+            0.9
+        ],
+        [
+            "Launch price category_6.0",
+            0.6
+        ]
+    ],
+    "Max rated brightness_3": [
+        [
+            "Launch price category_1.0",
+            7.5
+        ],
+        [
+            "Launch price category_2.0",
+            4.4
+        ],
+        [
+            "Launch price category_3.0",
+            4.4
+        ],
+        [
+            "Launch price category_0.0",
+            1.8
+        ],
+        [
+            "Launch price category_5.0",
+            1.4
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ],
+        [
+            "Launch price category_4.0",
+            0.9
+        ]
+    ],
+    "Memory card_0": [
+        [
+            "Launch price category_1.0",
+            18.1
+        ],
+        [
+            "Launch price category_2.0",
+            10.3
+        ],
+        [
+            "Launch price category_3.0",
+            9.8
+        ],
+        [
+            "Launch price category_4.0",
+            2.4
+        ],
+        [
+            "Launch price category_5.0",
+            2.0
+        ],
+        [
+            "Launch price category_0.0",
+            1.7
+        ],
+        [
+            "Launch price category_6.0",
+            1.4
+        ],
+        [
+            "Launch price category_nan",
+            1.1
+        ]
+    ],
+    "Memory card_1": [
+        [
+            "Launch price category_0.0",
+            29.4
+        ],
+        [
+            "Launch price category_1.0",
+            14.8
+        ],
+        [
+            "Launch price category_2.0",
+            2.1
+        ],
+        [
+            "Launch price category_3.0",
+            2.0
+        ],
+        [
+            "Launch price category_nan",
+            1.7
+        ],
+        [
+            "Launch price category_5.0",
+            0.6
+        ],
+        [
+            "Launch price category_4.0",
+            0.6
+        ]
+    ],
+    "Memory card_2": [
+        [
+            "Launch price category_3.0",
+            0.6
+        ],
+        [
+            "Launch price category_2.0",
+            0.6
+        ],
+        [
+            "Launch price category_4.0",
+            0.6
+        ]
+    ],
+    "Memory type_1": [
+        [
+            "Launch price category_0.0",
+            1.8
+        ]
+    ],
+    "Memory type_3": [
+        [
+            "Launch price category_0.0",
+            28.8
+        ],
+        [
+            "Launch price category_1.0",
+            22.9
+        ],
+        [
+            "Launch price category_2.0",
+            4.2
+        ],
+        [
+            "Launch price category_3.0",
+            2.7
+        ],
+        [
+            "Launch price category_nan",
+            1.7
+        ]
+    ],
+    "Memory type_4": [
+        [
+            "Launch price category_2.0",
+            5.4
+        ],
+        [
+            "Launch price category_3.0",
+            5.0
+        ],
+        [
+            "Launch price category_1.0",
+            5.0
+        ],
+        [
+            "Launch price category_4.0",
+            2.1
+        ],
+        [
+            "Launch price category_5.0",
+            0.9
+        ],
+        [
+            "Launch price category_6.0",
+            0.9
+        ]
+    ],
+    "Memory type_5": [
+        [
+            "Launch price category_1.0",
+            4.7
+        ],
+        [
+            "Launch price category_3.0",
+            4.5
+        ],
+        [
+            "Launch price category_2.0",
+            3.2
+        ],
+        [
+            "Launch price category_5.0",
+            1.7
+        ],
+        [
+            "Launch price category_4.0",
+            1.1
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ],
+        [
+            "Launch price category_6.0",
+            0.8
+        ]
+    ],
+    "Memory_0": [
+        [
+            "Launch price category_0.0",
+            17.6
+        ],
+        [
+            "Launch price category_1.0",
+            4.8
+        ],
+        [
+            "Launch price category_nan",
+            1.1
+        ],
+        [
+            "Launch price category_2.0",
+            0.8
+        ],
+        [
+            "Launch price category_3.0",
+            0.8
+        ]
+    ],
+    "Memory_1": [
+        [
+            "Launch price category_1.0",
+            11.3
+        ],
+        [
+            "Launch price category_0.0",
+            11.2
+        ],
+        [
+            "Launch price category_3.0",
+            1.1
+        ],
+        [
+            "Launch price category_2.0",
+            1.1
+        ]
+    ],
+    "Memory_2": [
+        [
+            "Launch price category_1.0",
+            10.4
+        ],
+        [
+            "Launch price category_2.0",
+            5.3
+        ],
+        [
+            "Launch price category_3.0",
+            3.9
+        ],
+        [
+            "Launch price category_0.0",
+            2.3
+        ],
+        [
+            "Launch price category_4.0",
+            1.4
+        ],
+        [
+            "Launch price category_5.0",
+            0.6
+        ],
+        [
+            "Launch price category_6.0",
+            0.6
+        ]
+    ],
+    "Memory_3": [
+        [
+            "Launch price category_3.0",
+            6.6
+        ],
+        [
+            "Launch price category_1.0",
+            6.5
+        ],
+        [
+            "Launch price category_2.0",
+            5.9
+        ],
+        [
+            "Launch price category_4.0",
+            2.1
+        ],
+        [
+            "Launch price category_5.0",
+            2.0
+        ],
+        [
+            "Launch price category_6.0",
+            1.1
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ]
+    ],
+    "Neural processor (NPU)_0": [
+        [
+            "Launch price category_0.0",
+            7.2
+        ],
+        [
+            "Launch price category_1.0",
+            0.9
+        ],
+        [
+            "Launch price category_nan",
+            0.6
+        ]
+    ],
+    "Neural processor (NPU)_1": [
+        [
+            "Launch price category_1.0",
+            32.1
+        ],
+        [
+            "Launch price category_0.0",
+            23.8
+        ],
+        [
+            "Launch price category_2.0",
+            12.7
+        ],
+        [
+            "Launch price category_3.0",
+            11.9
+        ],
+        [
+            "Launch price category_4.0",
+            3.6
+        ],
+        [
+            "Launch price category_5.0",
+            2.6
+        ],
+        [
+            "Launch price category_nan",
+            2.1
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ]
+    ],
+    "PPI_0": [
+        [
+            "Launch price category_0.0",
+            24.9
+        ],
+        [
+            "Launch price category_1.0",
+            16.4
+        ],
+        [
+            "Launch price category_2.0",
+            3.8
+        ],
+        [
+            "Launch price category_3.0",
+            3.0
+        ],
+        [
+            "Launch price category_nan",
+            1.8
+        ],
+        [
+            "Launch price category_6.0",
+            1.1
+        ]
+    ],
+    "PPI_1": [
+        [
+            "Launch price category_1.0",
+            9.7
+        ],
+        [
+            "Launch price category_0.0",
+            5.9
+        ],
+        [
+            "Launch price category_2.0",
+            3.9
+        ],
+        [
+            "Launch price category_3.0",
+            2.6
+        ]
+    ],
+    "PPI_2": [
+        [
+            "Launch price category_1.0",
+            6.9
+        ],
+        [
+            "Launch price category_3.0",
+            6.8
+        ],
+        [
+            "Launch price category_2.0",
+            5.3
+        ],
+        [
+            "Launch price category_4.0",
+            2.7
+        ],
+        [
+            "Launch price category_5.0",
+            2.0
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Phone age in days_0": [
+        [
+            "Launch price category_1.0",
+            9.0
+        ],
+        [
+            "Launch price category_0.0",
+            6.8
+        ],
+        [
+            "Launch price category_2.0",
+            3.0
+        ],
+        [
+            "Launch price category_nan",
+            2.3
+        ],
+        [
+            "Launch price category_3.0",
+            2.1
+        ],
+        [
+            "Launch price category_5.0",
+            1.1
+        ],
+        [
+            "Launch price category_4.0",
+            0.6
+        ]
+    ],
+    "Phone age in days_1": [
+        [
+            "Launch price category_1.0",
+            9.4
+        ],
+        [
+            "Launch price category_0.0",
+            8.4
+        ],
+        [
+            "Launch price category_2.0",
+            3.3
+        ],
+        [
+            "Launch price category_3.0",
+            2.6
+        ],
+        [
+            "Launch price category_4.0",
+            1.1
+        ],
+        [
+            "Launch price category_6.0",
+            0.8
+        ],
+        [
+            "Launch price category_5.0",
+            0.6
+        ]
+    ],
+    "Phone age in days_2": [
+        [
+            "Launch price category_0.0",
+            7.8
+        ],
+        [
+            "Launch price category_1.0",
+            7.4
+        ],
+        [
+            "Launch price category_3.0",
+            3.5
+        ],
+        [
+            "Launch price category_2.0",
+            3.3
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ]
+    ],
+    "Phone age in days_3": [
+        [
+            "Launch price category_0.0",
+            8.0
+        ],
+        [
+            "Launch price category_1.0",
+            7.2
+        ],
+        [
+            "Launch price category_3.0",
+            4.2
+        ],
+        [
+            "Launch price category_2.0",
+            3.3
+        ],
+        [
+            "Launch price category_4.0",
+            1.2
+        ],
+        [
+            "Launch price category_5.0",
+            0.6
+        ]
+    ],
+    "Pixel size (micron)_0": [
+        [
+            "Launch price category_1.0",
+            11.6
+        ],
+        [
+            "Launch price category_0.0",
+            6.6
+        ],
+        [
+            "Launch price category_2.0",
+            6.0
+        ],
+        [
+            "Launch price category_3.0",
+            3.9
+        ],
+        [
+            "Launch price category_5.0",
+            1.5
+        ],
+        [
+            "Launch price category_4.0",
+            1.5
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ]
+    ],
+    "Pixel size (micron)_1": [
+        [
+            "Launch price category_1.0",
+            15.4
+        ],
+        [
+            "Launch price category_0.0",
+            14.0
+        ],
+        [
+            "Launch price category_2.0",
+            3.2
+        ],
+        [
+            "Launch price category_3.0",
+            1.2
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ]
+    ],
+    "Pixel size (micron)_2": [
+        [
+            "Launch price category_0.0",
+            9.2
+        ],
+        [
+            "Launch price category_1.0",
+            5.3
+        ],
+        [
+            "Launch price category_3.0",
+            2.1
+        ],
+        [
+            "Launch price category_2.0",
+            1.8
+        ],
+        [
+            "Launch price category_nan",
+            0.6
+        ],
+        [
+            "Launch price category_4.0",
+            0.6
+        ]
+    ],
+    "Pixel size (micron)_3": [
+        [
+            "Launch price category_3.0",
+            5.1
+        ],
+        [
+            "Launch price category_2.0",
+            2.0
+        ],
+        [
+            "Launch price category_0.0",
+            1.2
+        ],
+        [
+            "Launch price category_6.0",
+            1.1
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ],
+        [
+            "Launch price category_1.0",
+            0.8
+        ]
+    ],
+    "Pixels_X_0": [
+        [
+            "Launch price category_0.0",
+            30.8
+        ],
+        [
+            "Launch price category_1.0",
+            26.4
+        ],
+        [
+            "Launch price category_2.0",
+            6.8
+        ],
+        [
+            "Launch price category_3.0",
+            6.2
+        ],
+        [
+            "Launch price category_nan",
+            2.0
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ]
+    ],
+    "Pixels_X_1": [
+        [
+            "Launch price category_2.0",
+            0.9
+        ]
+    ],
+    "Pixels_X_2": [
+        [
+            "Launch price category_1.0",
+            6.2
+        ],
+        [
+            "Launch price category_3.0",
+            5.7
+        ],
+        [
+            "Launch price category_2.0",
+            5.3
+        ],
+        [
+            "Launch price category_4.0",
+            2.9
+        ],
+        [
+            "Launch price category_5.0",
+            2.3
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Pixels_Y_0": [
+        [
+            "Launch price category_0.0",
+            16.0
+        ],
+        [
+            "Launch price category_1.0",
+            4.8
+        ],
+        [
+            "Launch price category_3.0",
+            2.6
+        ],
+        [
+            "Launch price category_6.0",
+            1.1
+        ],
+        [
+            "Launch price category_2.0",
+            0.9
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ]
+    ],
+    "Pixels_Y_1": [
+        [
+            "Launch price category_1.0",
+            15.1
+        ],
+        [
+            "Launch price category_0.0",
+            9.0
+        ],
+        [
+            "Launch price category_2.0",
+            4.5
+        ],
+        [
+            "Launch price category_3.0",
+            2.0
+        ]
+    ],
+    "Pixels_Y_2": [
+        [
+            "Launch price category_1.0",
+            6.9
+        ],
+        [
+            "Launch price category_0.0",
+            5.9
+        ],
+        [
+            "Launch price category_2.0",
+            2.0
+        ],
+        [
+            "Launch price category_3.0",
+            1.7
+        ]
+    ],
+    "Pixels_Y_3": [
+        [
+            "Launch price category_1.0",
+            6.2
+        ],
+        [
+            "Launch price category_3.0",
+            6.2
+        ],
+        [
+            "Launch price category_2.0",
+            5.6
+        ],
+        [
+            "Launch price category_4.0",
+            3.2
+        ],
+        [
+            "Launch price category_5.0",
+            2.0
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ]
+    ],
+    "Pro mode_0": [
+        [
+            "Launch price category_0.0",
+            7.4
+        ],
+        [
+            "Launch price category_1.0",
+            1.2
+        ]
+    ],
+    "Pro mode_1": [
+        [
+            "Launch price category_1.0",
+            31.8
+        ],
+        [
+            "Launch price category_0.0",
+            23.7
+        ],
+        [
+            "Launch price category_2.0",
+            12.8
+        ],
+        [
+            "Launch price category_3.0",
+            12.2
+        ],
+        [
+            "Launch price category_4.0",
+            3.6
+        ],
+        [
+            "Launch price category_5.0",
+            2.6
+        ],
+        [
+            "Launch price category_nan",
+            2.3
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ]
+    ],
+    "Proximity sensor_0": [
+        [
+            "Launch price category_0.0",
+            6.0
+        ],
+        [
+            "Launch price category_1.0",
+            4.1
+        ],
+        [
+            "Launch price category_2.0",
+            0.8
+        ]
+    ],
+    "Proximity sensor_1": [
+        [
+            "Launch price category_1.0",
+            29.0
+        ],
+        [
+            "Launch price category_0.0",
+            25.0
+        ],
+        [
+            "Launch price category_3.0",
+            12.2
+        ],
+        [
+            "Launch price category_2.0",
+            12.2
+        ],
+        [
+            "Launch price category_4.0",
+            3.6
+        ],
+        [
+            "Launch price category_5.0",
+            2.6
+        ],
+        [
+            "Launch price category_nan",
+            2.3
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ]
+    ],
+    "RAM size (GB)_12": [
+        [
+            "Launch price category_3.0",
+            3.0
+        ],
+        [
+            "Launch price category_2.0",
+            3.0
+        ],
+        [
+            "Launch price category_1.0",
+            3.0
+        ],
+        [
+            "Launch price category_5.0",
+            1.5
+        ],
+        [
+            "Launch price category_4.0",
+            1.2
+        ],
+        [
+            "Launch price category_6.0",
+            1.2
+        ]
+    ],
+    "RAM size (GB)_16": [
+        [
+            "Launch price category_3.0",
+            0.8
+        ]
+    ],
+    "RAM size (GB)_2": [
+        [
+            "Launch price category_0.0",
+            2.4
+        ]
+    ],
+    "RAM size (GB)_3": [
+        [
+            "Launch price category_0.0",
+            5.0
+        ]
+    ],
+    "RAM size (GB)_4": [
+        [
+            "Launch price category_0.0",
+            13.4
+        ],
+        [
+            "Launch price category_1.0",
+            3.6
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ],
+        [
+            "Launch price category_3.0",
+            0.6
+        ],
+        [
+            "Launch price category_2.0",
+            0.6
+        ]
+    ],
+    "RAM size (GB)_6": [
+        [
+            "Launch price category_1.0",
+            10.6
+        ],
+        [
+            "Launch price category_0.0",
+            4.5
+        ],
+        [
+            "Launch price category_3.0",
+            1.5
+        ],
+        [
+            "Launch price category_2.0",
+            1.4
+        ]
+    ],
+    "RAM size (GB)_8": [
+        [
+            "Launch price category_1.0",
+            15.4
+        ],
+        [
+            "Launch price category_2.0",
+            8.0
+        ],
+        [
+            "Launch price category_3.0",
+            6.5
+        ],
+        [
+            "Launch price category_0.0",
+            5.6
+        ],
+        [
+            "Launch price category_4.0",
+            1.8
+        ],
+        [
+            "Launch price category_nan",
+            1.1
+        ],
+        [
+            "Launch price category_5.0",
+            0.6
+        ]
+    ],
+    "RAW support_0": [
+        [
+            "Launch price category_0.0",
+            29.9
+        ],
+        [
+            "Launch price category_1.0",
+            29.6
+        ],
+        [
+            "Launch price category_2.0",
+            8.6
+        ],
+        [
+            "Launch price category_3.0",
+            3.8
+        ],
+        [
+            "Launch price category_nan",
+            2.4
+        ],
+        [
+            "Launch price category_4.0",
+            1.1
+        ],
+        [
+            "Launch price category_5.0",
+            0.6
+        ]
+    ],
+    "RAW support_1": [
+        [
+            "Launch price category_3.0",
+            8.6
+        ],
+        [
+            "Launch price category_2.0",
+            4.4
+        ],
+        [
+            "Launch price category_1.0",
+            3.5
+        ],
+        [
+            "Launch price category_4.0",
+            2.6
+        ],
+        [
+            "Launch price category_5.0",
+            2.0
+        ],
+        [
+            "Launch price category_6.0",
+            1.5
+        ],
+        [
+            "Launch price category_0.0",
+            1.2
+        ]
+    ],
+    "Rear material_0": [
+        [
+            "Launch price category_0.0",
+            27.8
+        ],
+        [
+            "Launch price category_1.0",
+            17.6
+        ],
+        [
+            "Launch price category_2.0",
+            2.1
+        ],
+        [
+            "Launch price category_nan",
+            1.8
+        ],
+        [
+            "Launch price category_3.0",
+            0.8
+        ]
+    ],
+    "Rear material_1": [
+        [
+            "Launch price category_1.0",
+            11.9
+        ],
+        [
+            "Launch price category_3.0",
+            10.6
+        ],
+        [
+            "Launch price category_2.0",
+            9.8
+        ],
+        [
+            "Launch price category_4.0",
+            3.6
+        ],
+        [
+            "Launch price category_0.0",
+            3.0
+        ],
+        [
+            "Launch price category_5.0",
+            1.7
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ]
+    ],
+    "Rear material_2": [
+        [
+            "Launch price category_1.0",
+            2.1
+        ],
+        [
+            "Launch price category_3.0",
+            0.8
+        ]
+    ],
+    "Rear material_3": [
+        [
+            "Launch price category_1.0",
+            0.9
+        ]
+    ],
+    "Refresh rate_120": [
+        [
+            "Launch price category_1.0",
+            20.1
+        ],
+        [
+            "Launch price category_3.0",
+            7.5
+        ],
+        [
+            "Launch price category_2.0",
+            7.5
+        ],
+        [
+            "Launch price category_0.0",
+            7.1
+        ],
+        [
+            "Launch price category_5.0",
+            2.4
+        ],
+        [
+            "Launch price category_4.0",
+            2.4
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ]
+    ],
+    "Refresh rate_144": [
+        [
+            "Launch price category_1.0",
+            2.7
+        ],
+        [
+            "Launch price category_2.0",
+            2.4
+        ],
+        [
+            "Launch price category_3.0",
+            1.1
+        ]
+    ],
+    "Refresh rate_165": [
+        [
+            "Launch price category_3.0",
+            0.6
+        ],
+        [
+            "Launch price category_4.0",
+            0.6
+        ]
+    ],
+    "Refresh rate_60": [
+        [
+            "Launch price category_0.0",
+            10.7
+        ],
+        [
+            "Launch price category_1.0",
+            6.0
+        ],
+        [
+            "Launch price category_3.0",
+            2.4
+        ],
+        [
+            "Launch price category_2.0",
+            1.7
+        ]
+    ],
+    "Refresh rate_90": [
+        [
+            "Launch price category_0.0",
+            13.3
+        ],
+        [
+            "Launch price category_1.0",
+            4.2
+        ],
+        [
+            "Launch price category_2.0",
+            1.2
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ],
+        [
+            "Launch price category_3.0",
+            0.8
+        ]
+    ],
+    "Reverse charging_0": [
+        [
+            "Launch price category_1.0",
+            26.7
+        ],
+        [
+            "Launch price category_0.0",
+            26.5
+        ],
+        [
+            "Launch price category_2.0",
+            7.7
+        ],
+        [
+            "Launch price category_3.0",
+            2.6
+        ],
+        [
+            "Launch price category_nan",
+            2.1
+        ]
+    ],
+    "Reverse charging_1": [
+        [
+            "Launch price category_3.0",
+            9.8
+        ],
+        [
+            "Launch price category_1.0",
+            6.3
+        ],
+        [
+            "Launch price category_2.0",
+            5.3
+        ],
+        [
+            "Launch price category_0.0",
+            4.5
+        ],
+        [
+            "Launch price category_4.0",
+            3.2
+        ],
+        [
+            "Launch price category_5.0",
+            2.4
+        ],
+        [
+            "Launch price category_6.0",
+            1.4
+        ],
+        [
+            "Launch price category_nan",
+            0.6
+        ]
+    ],
+    "Sensor size_0": [
+        [
+            "Launch price category_1.0",
+            13.4
+        ],
+        [
+            "Launch price category_0.0",
+            7.1
+        ],
+        [
+            "Launch price category_2.0",
+            6.5
+        ],
+        [
+            "Launch price category_3.0",
+            4.4
+        ],
+        [
+            "Launch price category_4.0",
+            1.7
+        ],
+        [
+            "Launch price category_nan",
+            1.4
+        ],
+        [
+            "Launch price category_5.0",
+            0.9
+        ]
+    ],
+    "Sensor size_1": [
+        [
+            "Launch price category_0.0",
+            13.3
+        ],
+        [
+            "Launch price category_1.0",
+            4.1
+        ],
+        [
+            "Launch price category_2.0",
+            1.7
+        ],
+        [
+            "Launch price category_3.0",
+            1.4
+        ],
+        [
+            "Launch price category_4.0",
+            0.9
+        ]
+    ],
+    "Sensor size_2": [
+        [
+            "Launch price category_1.0",
+            8.6
+        ],
+        [
+            "Launch price category_0.0",
+            5.1
+        ],
+        [
+            "Launch price category_2.0",
+            2.6
+        ],
+        [
+            "Launch price category_3.0",
+            1.8
+        ]
+    ],
+    "Sensor size_3": [
+        [
+            "Launch price category_1.0",
+            6.9
+        ],
+        [
+            "Launch price category_0.0",
+            5.6
+        ],
+        [
+            "Launch price category_3.0",
+            4.8
+        ],
+        [
+            "Launch price category_2.0",
+            2.3
+        ],
+        [
+            "Launch price category_5.0",
+            1.4
+        ],
+        [
+            "Launch price category_4.0",
+            1.1
+        ],
+        [
+            "Launch price category_6.0",
+            0.9
+        ],
+        [
+            "Launch price category_nan",
+            0.6
+        ]
+    ],
+    "Speakers_Mono_0": [
+        [
+            "Launch price category_1.0",
+            22.5
+        ],
+        [
+            "Launch price category_0.0",
+            11.8
+        ],
+        [
+            "Launch price category_3.0",
+            11.6
+        ],
+        [
+            "Launch price category_2.0",
+            11.3
+        ],
+        [
+            "Launch price category_4.0",
+            3.6
+        ],
+        [
+            "Launch price category_5.0",
+            2.6
+        ],
+        [
+            "Launch price category_nan",
+            2.0
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ]
+    ],
+    "Speakers_Mono_1": [
+        [
+            "Launch price category_0.0",
+            19.3
+        ],
+        [
+            "Launch price category_1.0",
+            10.6
+        ],
+        [
+            "Launch price category_2.0",
+            1.7
+        ],
+        [
+            "Launch price category_3.0",
+            0.8
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Speakers_Stereo_0": [
+        [
+            "Launch price category_0.0",
+            19.6
+        ],
+        [
+            "Launch price category_1.0",
+            10.7
+        ],
+        [
+            "Launch price category_2.0",
+            2.1
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ],
+        [
+            "Launch price category_3.0",
+            0.8
+        ]
+    ],
+    "Speakers_Stereo_1": [
+        [
+            "Launch price category_1.0",
+            22.3
+        ],
+        [
+            "Launch price category_3.0",
+            11.6
+        ],
+        [
+            "Launch price category_0.0",
+            11.5
+        ],
+        [
+            "Launch price category_2.0",
+            10.9
+        ],
+        [
+            "Launch price category_4.0",
+            3.6
+        ],
+        [
+            "Launch price category_5.0",
+            2.6
+        ],
+        [
+            "Launch price category_nan",
+            2.0
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ]
+    ],
+    "Storage size (GB)_128": [
+        [
+            "Launch price category_1.0",
+            19.5
+        ],
+        [
+            "Launch price category_0.0",
+            11.2
+        ],
+        [
+            "Launch price category_2.0",
+            6.9
+        ],
+        [
+            "Launch price category_3.0",
+            6.5
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ],
+        [
+            "Launch price category_4.0",
+            1.1
+        ]
+    ],
+    "Storage size (GB)_256": [
+        [
+            "Launch price category_1.0",
+            9.5
+        ],
+        [
+            "Launch price category_2.0",
+            5.4
+        ],
+        [
+            "Launch price category_3.0",
+            3.9
+        ],
+        [
+            "Launch price category_0.0",
+            2.7
+        ],
+        [
+            "Launch price category_4.0",
+            2.3
+        ],
+        [
+            "Launch price category_5.0",
+            1.7
+        ],
+        [
+            "Launch price category_6.0",
+            1.5
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ]
+    ],
+    "Storage size (GB)_32": [
+        [
+            "Launch price category_0.0",
+            5.9
+        ]
+    ],
+    "Storage size (GB)_512": [
+        [
+            "Launch price category_3.0",
+            0.8
+        ],
+        [
+            "Launch price category_5.0",
+            0.6
+        ]
+    ],
+    "Storage size (GB)_64": [
+        [
+            "Launch price category_0.0",
+            10.9
+        ],
+        [
+            "Launch price category_1.0",
+            3.5
+        ],
+        [
+            "Launch price category_3.0",
+            1.1
+        ]
+    ],
+    "Storage type_1": [
+        [
+            "Launch price category_0.0",
+            14.3
+        ],
+        [
+            "Launch price category_1.0",
+            1.2
+        ],
+        [
+            "Launch price category_nan",
+            1.1
+        ]
+    ],
+    "Storage type_3": [
+        [
+            "Launch price category_1.0",
+            6.3
+        ],
+        [
+            "Launch price category_0.0",
+            4.4
+        ],
+        [
+            "Launch price category_3.0",
+            2.0
+        ],
+        [
+            "Launch price category_2.0",
+            1.5
+        ]
+    ],
+    "Storage type_4": [
+        [
+            "Launch price category_0.0",
+            11.8
+        ],
+        [
+            "Launch price category_1.0",
+            10.9
+        ],
+        [
+            "Launch price category_2.0",
+            1.2
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Storage type_5": [
+        [
+            "Launch price category_3.0",
+            1.2
+        ],
+        [
+            "Launch price category_2.0",
+            0.8
+        ]
+    ],
+    "Storage type_6": [
+        [
+            "Launch price category_1.0",
+            11.2
+        ],
+        [
+            "Launch price category_2.0",
+            6.2
+        ],
+        [
+            "Launch price category_3.0",
+            4.4
+        ],
+        [
+            "Launch price category_4.0",
+            1.7
+        ],
+        [
+            "Launch price category_6.0",
+            0.9
+        ],
+        [
+            "Launch price category_5.0",
+            0.8
+        ],
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "Storage type_7": [
+        [
+            "Launch price category_3.0",
+            4.7
+        ],
+        [
+            "Launch price category_2.0",
+            3.2
+        ],
+        [
+            "Launch price category_1.0",
+            3.0
+        ],
+        [
+            "Launch price category_5.0",
+            1.5
+        ],
+        [
+            "Launch price category_4.0",
+            1.4
+        ],
+        [
+            "Launch price category_6.0",
+            0.8
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Thickness (mm)_0": [
+        [
+            "Launch price category_1.0",
+            10.6
+        ],
+        [
+            "Launch price category_0.0",
+            4.7
+        ],
+        [
+            "Launch price category_3.0",
+            4.1
+        ],
+        [
+            "Launch price category_2.0",
+            2.4
+        ],
+        [
+            "Launch price category_6.0",
+            1.5
+        ],
+        [
+            "Launch price category_nan",
+            1.1
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ]
+    ],
+    "Thickness (mm)_1": [
+        [
+            "Launch price category_0.0",
+            9.8
+        ],
+        [
+            "Launch price category_1.0",
+            9.7
+        ],
+        [
+            "Launch price category_2.0",
+            3.9
+        ],
+        [
+            "Launch price category_3.0",
+            1.7
+        ],
+        [
+            "Launch price category_4.0",
+            0.6
+        ],
+        [
+            "Launch price category_nan",
+            0.6
+        ]
+    ],
+    "Thickness (mm)_2": [
+        [
+            "Launch price category_1.0",
+            7.2
+        ],
+        [
+            "Launch price category_0.0",
+            7.1
+        ],
+        [
+            "Launch price category_2.0",
+            3.2
+        ],
+        [
+            "Launch price category_3.0",
+            2.7
+        ],
+        [
+            "Launch price category_4.0",
+            1.1
+        ],
+        [
+            "Launch price category_5.0",
+            0.9
+        ],
+        [
+            "Launch price category_nan",
+            0.6
+        ]
+    ],
+    "Thickness (mm)_3": [
+        [
+            "Launch price category_0.0",
+            9.5
+        ],
+        [
+            "Launch price category_1.0",
+            5.6
+        ],
+        [
+            "Launch price category_3.0",
+            3.9
+        ],
+        [
+            "Launch price category_2.0",
+            3.5
+        ],
+        [
+            "Launch price category_4.0",
+            1.2
+        ],
+        [
+            "Launch price category_5.0",
+            0.9
+        ]
+    ],
+    "Total Score_0": [
+        [
+            "Launch price category_0.0",
+            19.5
+        ],
+        [
+            "Launch price category_1.0",
+            3.8
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ]
+    ],
+    "Total Score_1": [
+        [
+            "Launch price category_1.0",
+            11.9
+        ],
+        [
+            "Launch price category_0.0",
+            10.7
+        ],
+        [
+            "Launch price category_3.0",
+            1.2
+        ],
+        [
+            "Launch price category_2.0",
+            1.1
+        ]
+    ],
+    "Total Score_2": [
+        [
+            "Launch price category_1.0",
+            11.5
+        ],
+        [
+            "Launch price category_2.0",
+            5.7
+        ],
+        [
+            "Launch price category_3.0",
+            3.6
+        ],
+        [
+            "Launch price category_4.0",
+            1.5
+        ],
+        [
+            "Launch price category_0.0",
+            0.9
+        ],
+        [
+            "Launch price category_5.0",
+            0.8
+        ]
+    ],
+    "Total Score_3": [
+        [
+            "Launch price category_3.0",
+            7.2
+        ],
+        [
+            "Launch price category_2.0",
+            5.9
+        ],
+        [
+            "Launch price category_1.0",
+            5.9
+        ],
+        [
+            "Launch price category_4.0",
+            2.1
+        ],
+        [
+            "Launch price category_5.0",
+            1.8
+        ],
+        [
+            "Launch price category_6.0",
+            1.2
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ]
+    ],
+    "Touch sampling rate_0": [
+        [
+            "Launch price category_0.0",
+            29.4
+        ],
+        [
+            "Launch price category_1.0",
+            23.2
+        ],
+        [
+            "Launch price category_3.0",
+            9.4
+        ],
+        [
+            "Launch price category_2.0",
+            7.7
+        ],
+        [
+            "Launch price category_4.0",
+            2.3
+        ],
+        [
+            "Launch price category_nan",
+            1.8
+        ],
+        [
+            "Launch price category_5.0",
+            1.7
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ]
+    ],
+    "Touch sampling rate_1": [
+        [
+            "Launch price category_1.0",
+            9.8
+        ],
+        [
+            "Launch price category_2.0",
+            5.3
+        ],
+        [
+            "Launch price category_3.0",
+            3.0
+        ],
+        [
+            "Launch price category_0.0",
+            1.7
+        ],
+        [
+            "Launch price category_4.0",
+            1.4
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ],
+        [
+            "Launch price category_5.0",
+            0.9
+        ]
+    ],
+    "Type_0": [
+        [
+            "Launch price category_1.0",
+            15.4
+        ],
+        [
+            "Launch price category_2.0",
+            6.8
+        ],
+        [
+            "Launch price category_0.0",
+            5.1
+        ],
+        [
+            "Launch price category_3.0",
+            4.1
+        ],
+        [
+            "Launch price category_4.0",
+            1.2
+        ],
+        [
+            "Launch price category_5.0",
+            1.1
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ]
+    ],
+    "Type_1": [
+        [
+            "Launch price category_1.0",
+            5.0
+        ],
+        [
+            "Launch price category_3.0",
+            3.6
+        ],
+        [
+            "Launch price category_2.0",
+            2.9
+        ],
+        [
+            "Launch price category_4.0",
+            1.4
+        ],
+        [
+            "Launch price category_5.0",
+            1.1
+        ],
+        [
+            "Launch price category_6.0",
+            0.8
+        ]
+    ],
+    "Type_2": [
+        [
+            "Launch price category_0.0",
+            17.3
+        ],
+        [
+            "Launch price category_1.0",
+            4.7
+        ],
+        [
+            "Launch price category_nan",
+            1.1
+        ],
+        [
+            "Launch price category_2.0",
+            0.6
+        ]
+    ],
+    "Type_3": [
+        [
+            "Launch price category_1.0",
+            5.1
+        ],
+        [
+            "Launch price category_0.0",
+            2.7
+        ],
+        [
+            "Launch price category_2.0",
+            1.5
+        ],
+        [
+            "Launch price category_3.0",
+            1.5
+        ]
+    ],
+    "Type_4": [
+        [
+            "Launch price category_1.0",
+            1.1
+        ],
+        [
+            "Launch price category_2.0",
+            0.9
+        ]
+    ],
+    "Type_5": [
+        [
+            "Launch price category_3.0",
+            2.7
+        ],
+        [
+            "Launch price category_4.0",
+            0.9
+        ],
+        [
+            "Launch price category_6.0",
+            0.8
+        ]
+    ],
+    "Type_6": [
+        [
+            "Launch price category_0.0",
+            2.0
+        ],
+        [
+            "Launch price category_1.0",
+            0.6
+        ]
+    ],
+    "Type_7": [
+        [
+            "Launch price category_0.0",
+            3.2
+        ]
+    ],
+    "Type_8": [
+        [
+            "Launch price category_1.0",
+            0.9
+        ],
+        [
+            "Launch price category_0.0",
+            0.6
+        ]
+    ],
+    "UX_0": [
+        [
+            "Launch price category_0.0",
+            19.0
+        ],
+        [
+            "Launch price category_1.0",
+            3.6
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ],
+        [
+            "Launch price category_3.0",
+            0.8
+        ]
+    ],
+    "UX_1": [
+        [
+            "Launch price category_0.0",
+            11.2
+        ],
+        [
+            "Launch price category_1.0",
+            11.2
+        ],
+        [
+            "Launch price category_3.0",
+            1.2
+        ],
+        [
+            "Launch price category_2.0",
+            1.2
+        ]
+    ],
+    "UX_2": [
+        [
+            "Launch price category_1.0",
+            11.9
+        ],
+        [
+            "Launch price category_2.0",
+            5.6
+        ],
+        [
+            "Launch price category_3.0",
+            3.3
+        ],
+        [
+            "Launch price category_4.0",
+            1.4
+        ],
+        [
+            "Launch price category_0.0",
+            0.9
+        ],
+        [
+            "Launch price category_5.0",
+            0.8
+        ],
+        [
+            "Launch price category_6.0",
+            0.6
+        ]
+    ],
+    "UX_3": [
+        [
+            "Launch price category_3.0",
+            7.1
+        ],
+        [
+            "Launch price category_1.0",
+            6.3
+        ],
+        [
+            "Launch price category_2.0",
+            5.7
+        ],
+        [
+            "Launch price category_4.0",
+            2.1
+        ],
+        [
+            "Launch price category_5.0",
+            1.8
+        ],
+        [
+            "Launch price category_6.0",
+            1.1
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ]
+    ],
+    "Video resolution_FPS_1": [
+        [
+            "Launch price category_0.0",
+            29.7
+        ],
+        [
+            "Launch price category_1.0",
+            26.8
+        ],
+        [
+            "Launch price category_2.0",
+            9.2
+        ],
+        [
+            "Launch price category_3.0",
+            6.5
+        ],
+        [
+            "Launch price category_nan",
+            2.0
+        ],
+        [
+            "Launch price category_4.0",
+            1.8
+        ],
+        [
+            "Launch price category_5.0",
+            1.4
+        ],
+        [
+            "Launch price category_6.0",
+            0.6
+        ]
+    ],
+    "Video resolution_FPS_2": [
+        [
+            "Launch price category_1.0",
+            6.2
+        ],
+        [
+            "Launch price category_3.0",
+            5.9
+        ],
+        [
+            "Launch price category_2.0",
+            3.8
+        ],
+        [
+            "Launch price category_4.0",
+            1.8
+        ],
+        [
+            "Launch price category_5.0",
+            1.2
+        ],
+        [
+            "Launch price category_0.0",
+            1.2
+        ],
+        [
+            "Launch price category_6.0",
+            1.1
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Video resolution_p_1": [
+        [
+            "Launch price category_0.0",
+            2.3
+        ]
+    ],
+    "Video resolution_p_2": [
+        [
+            "Launch price category_0.0",
+            28.4
+        ],
+        [
+            "Launch price category_1.0",
+            25.6
+        ],
+        [
+            "Launch price category_2.0",
+            7.4
+        ],
+        [
+            "Launch price category_3.0",
+            4.4
+        ],
+        [
+            "Launch price category_nan",
+            1.8
+        ],
+        [
+            "Launch price category_4.0",
+            1.4
+        ],
+        [
+            "Launch price category_5.0",
+            1.2
+        ]
+    ],
+    "Video resolution_p_3": [
+        [
+            "Launch price category_3.0",
+            0.6
+        ]
+    ],
+    "Video resolution_p_4": [
+        [
+            "Launch price category_3.0",
+            7.4
+        ],
+        [
+            "Launch price category_1.0",
+            7.2
+        ],
+        [
+            "Launch price category_2.0",
+            5.3
+        ],
+        [
+            "Launch price category_4.0",
+            2.3
+        ],
+        [
+            "Launch price category_6.0",
+            1.7
+        ],
+        [
+            "Launch price category_5.0",
+            1.4
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Waterproof_0": [
+        [
+            "Launch price category_1.0",
+            4.8
+        ],
+        [
+            "Launch price category_0.0",
+            4.7
+        ],
+        [
+            "Launch price category_2.0",
+            0.6
+        ]
+    ],
+    "Waterproof_1": [
+        [
+            "Launch price category_3.0",
+            8.7
+        ],
+        [
+            "Launch price category_2.0",
+            3.9
+        ],
+        [
+            "Launch price category_4.0",
+            3.2
+        ],
+        [
+            "Launch price category_1.0",
+            2.1
+        ],
+        [
+            "Launch price category_5.0",
+            2.0
+        ]
+    ],
+    "Waterproof_10": [
+        [
+            "Launch price category_2.0",
+            0.6
+        ],
+        [
+            "Launch price category_1.0",
+            0.6
+        ]
+    ],
+    "Waterproof_11": [
+        [
+            "Launch price category_1.0",
+            2.4
+        ]
+    ],
+    "Waterproof_2": [
+        [
+            "Launch price category_0.0",
+            3.2
+        ],
+        [
+            "Launch price category_2.0",
+            0.9
+        ],
+        [
+            "Launch price category_1.0",
+            0.8
+        ]
+    ],
+    "Waterproof_3": [
+        [
+            "Launch price category_0.0",
+            19.0
+        ],
+        [
+            "Launch price category_1.0",
+            16.4
+        ],
+        [
+            "Launch price category_2.0",
+            4.8
+        ],
+        [
+            "Launch price category_3.0",
+            1.5
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ]
+    ],
+    "Waterproof_4": [
+        [
+            "Launch price category_0.0",
+            1.2
+        ],
+        [
+            "Launch price category_1.0",
+            0.9
+        ]
+    ],
+    "Waterproof_5": [
+        [
+            "Launch price category_1.0",
+            2.7
+        ],
+        [
+            "Launch price category_0.0",
+            2.3
+        ]
+    ],
+    "Waterproof_6": [
+        [
+            "Launch price category_1.0",
+            1.8
+        ],
+        [
+            "Launch price category_2.0",
+            1.1
+        ]
+    ],
+    "Waterproof_9": [
+        [
+            "Launch price category_6.0",
+            0.9
+        ],
+        [
+            "Launch price category_3.0",
+            0.6
+        ]
+    ],
+    "Weight (gr)_0": [
+        [
+            "Launch price category_1.0",
+            11.6
+        ],
+        [
+            "Launch price category_0.0",
+            7.2
+        ],
+        [
+            "Launch price category_3.0",
+            3.6
+        ],
+        [
+            "Launch price category_2.0",
+            3.3
+        ]
+    ],
+    "Weight (gr)_1": [
+        [
+            "Launch price category_1.0",
+            9.7
+        ],
+        [
+            "Launch price category_0.0",
+            9.4
+        ],
+        [
+            "Launch price category_2.0",
+            2.7
+        ],
+        [
+            "Launch price category_3.0",
+            1.4
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ],
+        [
+            "Launch price category_4.0",
+            0.8
+        ]
+    ],
+    "Weight (gr)_2": [
+        [
+            "Launch price category_0.0",
+            10.1
+        ],
+        [
+            "Launch price category_1.0",
+            6.3
+        ],
+        [
+            "Launch price category_3.0",
+            3.3
+        ],
+        [
+            "Launch price category_2.0",
+            2.6
+        ]
+    ],
+    "Weight (gr)_3": [
+        [
+            "Launch price category_1.0",
+            5.4
+        ],
+        [
+            "Launch price category_0.0",
+            4.4
+        ],
+        [
+            "Launch price category_2.0",
+            4.4
+        ],
+        [
+            "Launch price category_3.0",
+            4.1
+        ],
+        [
+            "Launch price category_5.0",
+            2.3
+        ],
+        [
+            "Launch price category_4.0",
+            2.3
+        ],
+        [
+            "Launch price category_6.0",
+            1.5
+        ],
+        [
+            "Launch price category_nan",
+            0.8
+        ]
+    ],
+    "Width (mm)_0": [
+        [
+            "Launch price category_1.0",
+            9.8
+        ],
+        [
+            "Launch price category_3.0",
+            6.0
+        ],
+        [
+            "Launch price category_2.0",
+            4.5
+        ],
+        [
+            "Launch price category_0.0",
+            3.6
+        ],
+        [
+            "Launch price category_4.0",
+            1.1
+        ]
+    ],
+    "Width (mm)_1": [
+        [
+            "Launch price category_1.0",
+            9.8
+        ],
+        [
+            "Launch price category_0.0",
+            6.2
+        ],
+        [
+            "Launch price category_2.0",
+            3.6
+        ],
+        [
+            "Launch price category_3.0",
+            2.0
+        ],
+        [
+            "Launch price category_5.0",
+            1.1
+        ],
+        [
+            "Launch price category_nan",
+            0.9
+        ],
+        [
+            "Launch price category_4.0",
+            0.6
+        ]
+    ],
+    "Width (mm)_2": [
+        [
+            "Launch price category_0.0",
+            10.3
+        ],
+        [
+            "Launch price category_1.0",
+            7.8
+        ],
+        [
+            "Launch price category_2.0",
+            2.7
+        ],
+        [
+            "Launch price category_3.0",
+            2.3
+        ],
+        [
+            "Launch price category_nan",
+            1.2
+        ]
+    ],
+    "Width (mm)_3": [
+        [
+            "Launch price category_0.0",
+            11.0
+        ],
+        [
+            "Launch price category_1.0",
+            5.6
+        ],
+        [
+            "Launch price category_2.0",
+            2.1
+        ],
+        [
+            "Launch price category_3.0",
+            2.1
+        ],
+        [
+            "Launch price category_4.0",
+            1.5
+        ],
+        [
+            "Launch price category_6.0",
+            1.5
+        ],
+        [
+            "Launch price category_5.0",
+            0.8
+        ]
+    ],
+    "Wireless charging_0": [
+        [
+            "Launch price category_1.0",
+            30.9
+        ],
+        [
+            "Launch price category_0.0",
+            30.6
+        ],
+        [
+            "Launch price category_2.0",
+            8.1
+        ],
+        [
+            "Launch price category_nan",
+            2.3
+        ],
+        [
+            "Launch price category_3.0",
+            2.1
+        ]
+    ],
+    "Wireless charging_1": [
+        [
+            "Launch price category_3.0",
+            10.3
+        ],
+        [
+            "Launch price category_2.0",
+            4.8
+        ],
+        [
+            "Launch price category_4.0",
+            3.3
+        ],
+        [
+            "Launch price category_5.0",
+            2.3
+        ],
+        [
+            "Launch price category_1.0",
+            2.1
+        ],
+        [
+            "Launch price category_6.0",
+            1.2
+        ]
+    ],
+    "Zoom_0": [
+        [
+            "Launch price category_0.0",
+            30.8
+        ],
+        [
+            "Launch price category_1.0",
+            30.3
+        ],
+        [
+            "Launch price category_2.0",
+            9.2
+        ],
+        [
+            "Launch price category_3.0",
+            7.7
+        ],
+        [
+            "Launch price category_4.0",
+            2.6
+        ],
+        [
+            "Launch price category_nan",
+            2.1
+        ],
+        [
+            "Launch price category_5.0",
+            1.2
+        ],
+        [
+            "Launch price category_6.0",
+            0.9
+        ]
+    ],
+    "Zoom_1": [
+        [
+            "Launch price category_3.0",
+            4.7
+        ],
+        [
+            "Launch price category_2.0",
+            3.8
+        ],
+        [
+            "Launch price category_1.0",
+            2.7
+        ],
+        [
+            "Launch price category_5.0",
+            1.4
+        ],
+        [
+            "Launch price category_4.0",
+            1.1
+        ],
+        [
+            "Launch price category_6.0",
+            0.8
+        ],
+        [
+            "Launch price category_nan",
+            0.6
+        ]
+    ],
+    "eSIM support*_0": [
+        [
+            "Launch price category_0.0",
+            30.2
+        ],
+        [
+            "Launch price category_1.0",
+            28.7
+        ],
+        [
+            "Launch price category_2.0",
+            9.8
+        ],
+        [
+            "Launch price category_3.0",
+            6.6
+        ],
+        [
+            "Launch price category_nan",
+            2.3
+        ],
+        [
+            "Launch price category_4.0",
+            1.8
+        ],
+        [
+            "Launch price category_5.0",
+            1.4
+        ]
+    ],
+    "eSIM support*_1": [
+        [
+            "Launch price category_3.0",
+            5.7
+        ],
+        [
+            "Launch price category_1.0",
+            4.4
+        ],
+        [
+            "Launch price category_2.0",
+            3.2
+        ],
+        [
+            "Launch price category_4.0",
+            1.8
+        ],
+        [
+            "Launch price category_6.0",
+            1.4
+        ],
+        [
+            "Launch price category_5.0",
+            1.2
+        ],
+        [
+            "Launch price category_0.0",
+            0.9
+        ]
+    ],
+    "effect sensor_0": [
+        [
+            "Launch price category_1.0",
+            31.1
+        ],
+        [
+            "Launch price category_0.0",
+            30.8
+        ],
+        [
+            "Launch price category_2.0",
+            11.6
+        ],
+        [
+            "Launch price category_3.0",
+            7.7
+        ],
+        [
+            "Launch price category_nan",
+            2.7
+        ],
+        [
+            "Launch price category_4.0",
+            2.4
+        ],
+        [
+            "Launch price category_5.0",
+            1.8
+        ],
+        [
+            "Launch price category_6.0",
+            0.9
+        ]
+    ],
+    "effect sensor_1": [
+        [
+            "Launch price category_3.0",
+            4.7
+        ],
+        [
+            "Launch price category_1.0",
+            2.0
+        ],
+        [
+            "Launch price category_2.0",
+            1.4
+        ],
+        [
+            "Launch price category_4.0",
+            1.2
+        ],
+        [
+            "Launch price category_5.0",
+            0.8
+        ],
+        [
+            "Launch price category_6.0",
+            0.8
+        ]
+    ]
+}
