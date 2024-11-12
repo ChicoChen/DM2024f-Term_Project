@@ -18,6 +18,7 @@ removed:
     NFC*
     Number of SIM*
     Stabilization
+    Touch sampling rate //new
 
 troublesome/uncertain column:
 1.  "Battery capacity (mAh)": might cause overfitting
@@ -33,6 +34,10 @@ troublesome/uncertain column:
 
 
 todo:
+    Speakers_Stereo/Mono (立琦)
+    Waterproof (林秉)
+
+Done:
     PPI
     Display Size
     Full charging time (min)
@@ -41,7 +46,4 @@ todo:
     Pixel size (micron)
     Pixels_Y / Pixels_X
     Sensor size
-    Speakers_Stereo/Mono (立琦)
-    Touch sampling rate
-    Waterproof (林秉)
 
