@@ -3,7 +3,7 @@ import time
 import pickle
 import argparse
 from sklearn.model_selection import RepeatedKFold
-from sklearn.svm import SVC
+from sklearn.svm import LinearSVC, SVC
 from sklearn.metrics import accuracy_score, classification_report
 
 import balance
@@ -22,12 +22,14 @@ if __name__ == "__main__":
     print("data loaded successfully")
 
     RKF = RepeatedKFold(n_splits=5, n_repeats=1)
-    svm = SVC(kernel="linear", probability=True)
+    svm = LinearSVC()
+    # svm = SVC(kernel="linear", probability=True)
 
     accuracies = []
     reports = []
     count = 0
     cv_start_time = time.time()
+    #cross validation
     for trainIdx, valIdx in RKF.split(trainingData):
         X_train, X_val = X.iloc[trainIdx], X.iloc[valIdx]
         y_train, y_val = Y.iloc[trainIdx], Y.iloc[valIdx]
@@ -42,21 +44,24 @@ if __name__ == "__main__":
         accuracies.append(accuracy)
         
         report = classification_report(y_val, y_pred, output_dict=True)
-        reports.append(report)
-
+        reports.append(pd.DataFrame(report).transpose())
+    
+    # print CV average score
     average_accuracy = sum(accuracies) / len(accuracies)
     print("Average accuracy:", average_accuracy)
-    df_reports = pd.DataFrame(reports).mean()
+    df_reports = pd.concat(reports).groupby(level=0).mean()
     print("Average classification metrics across folds:\n", df_reports)
 
     cv_end_time = time.time()
     cv_training_time = cv_end_time - cv_start_time
-    print(f"Cross-validation complete, total{cv_training_time:.2f}.\nNow evaluating on the testing dataset...")
+    print(f"Cross-validation complete, total {cv_training_time:.2f}.\n")
 
+    #train model on whole data
     svm.fit(X, Y)
     FT_time = time.time() - cv_end_time
-    print(f"Full training complete, total{FT_time:.2f}.\nNow evaluating on the testing dataset...")
+    print(f"Full training complete, total {FT_time:.2f}.\nNow evaluating on the testing dataset...")
     
+    #model testing
     testingData = pd.read_csv(trainData_path)
     X_test = testingData.drop(columns=['Launch price category'])
     Y_test = testingData['Launch price category']
