@@ -48,9 +48,9 @@ df['Fingerprint scanner'] = df['Fingerprint scanner'].map({
 }).fillna(0).astype(int)  # 將 NaN 填入 0，並轉換為整數型態
 df['L3 cache (mb)'].fillna(0, inplace=True)
 df['Manufacturing'] = df['Manufacturing'].map({
-    'TSMC': 1,
+    'TSMC': 3,
     'Samsung': 2,
-    'SMIC': 3,
+    'SMIC': 1,
 }).fillna(0).astype(int)
 # 使用 str.get_dummies() 來將多重選項拆分成多個欄位
 display_features_dummies = df['Display features'].str.get_dummies(sep=' - ')
