@@ -2,6 +2,7 @@ import pandas as pd
 import time
 import pickle
 import argparse
+from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import RepeatedKFold
 from sklearn.svm import LinearSVC, SVC
 from sklearn.metrics import accuracy_score, classification_report
@@ -20,6 +21,10 @@ if __name__ == "__main__":
     X = trainingData.drop(columns=["Launch price category"])
     Y = trainingData["Launch price category"]
     print("data loaded successfully")
+    
+    minmax = MinMaxScaler()
+    # X = minmax.fit_transform(X)
+    X = pd.DataFrame(minmax.fit_transform(X), columns=X.columns)
 
     RKF = RepeatedKFold(n_splits=5, n_repeats=1)
     svm = LinearSVC()
@@ -64,6 +69,10 @@ if __name__ == "__main__":
     #model testing
     testingData = pd.read_csv(trainData_path)
     X_test = testingData.drop(columns=['Launch price category'])
+    # X_test = minmax.fit_transform(X_test)
+    X_test = pd.DataFrame(minmax.fit_transform(X_test), columns=X_test.columns)
+
+
     Y_test = testingData['Launch price category']
     Y_pred = svm.predict(X_test)
     test_accuracy = accuracy_score(Y_test, Y_pred)

@@ -6,6 +6,12 @@ def process_and_balance_data(file_path):
     # Load the data
     data = pd.read_csv(file_path)
 
+    label_mapping = {
+        2: 2, 3: 2,
+        4: 3, 5: 3, 6: 3
+    }
+    data["Launch price category"] = data["Launch price category"].replace(label_mapping)
+
     # Drop rows where the target variable 'Launch price category' is missing
     data = data.dropna(subset=['Launch price category'])
 
@@ -49,8 +55,8 @@ def main():
     balanced_train_data, test_data = process_and_balance_data(file_path)
     
     # Save the balanced training data and test data to CSV files
-    balanced_train_data.to_csv('./balanced_train_data.csv', index=False)
-    test_data.to_csv('./test_data.csv', index=False)
+    balanced_train_data.to_csv('./balanced_train_data_4Bins.csv', index=False)
+    test_data.to_csv('./test_data_4Bins.csv', index=False)
 
 
 if __name__ == "__main__":
