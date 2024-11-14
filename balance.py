@@ -41,17 +41,17 @@ def process_and_balance_data(file_path):
         return balanced_train_data, test_data
     
 # Example usage
-# def main():
-#     # File path for the input CSV
-#     file_path = 'C:/Users/user/Downloads/processed(merged version).csv'
+def main():
+    # File path for the input CSV
+    file_path = './data/prunedB.csv'
     
-#     # Process and balance data
-#     balanced_train_data, test_data = process_and_balance_data(file_path)
+    # Process and balance data
+    balanced_train_data, test_data = process_and_balance_data(file_path)
     
-#     # Save the balanced training data and test data to CSV files
-#     balanced_train_data.to_csv('C:/Users/user/Documents/GitHub/DM2024f-Term_Project/balanced_train_data.csv', index=False)
-#     test_data.to_csv('C:/Users/user/Documents/GitHub/DM2024f-Term_Project/test_data.csv', index=False)
+    # Save the balanced training data and test data to CSV files
+    balanced_train_data.to_csv('./balanced_train_data.csv', index=False)
+    test_data.to_csv('./test_data.csv', index=False)
 
-# 
-# if __name__ == "__main__":
-#     main()
+
+if __name__ == "__main__":
+    main()
