@@ -1,7 +1,7 @@
 import pandas as pd
 import re
 # 讀取 CSV 檔案
-file_path = 'C:/Users/user/Downloads/nanoreview_phone_specs (processed).csv'
+file_path = 'C:/Users/user/Documents/GitHub/DM2024f-Term_Project/data/nanoreview_phone_specs (processed).csv'
 df = pd.read_csv(file_path)
 
 df['Brand'] = pd.Categorical(df['Brand'], categories=df['Brand'].unique(), ordered=True)
@@ -59,7 +59,7 @@ display_features_dummies = df['Display features'].str.get_dummies(sep=' - ')
 df = pd.concat([df, display_features_dummies], axis=1)
 df.drop(columns=['Display features'], inplace=True)
 # 儲存結果到新的 CSV 檔案
-output_file_path = 'C:/Users/user/Downloads/updated_nanoreview_phone_specs.csv'
+output_file_path = 'C:/Users/user/Desktop/updated_nanoreview_phone_specs.csv'
 df.to_csv(output_file_path, index=False)
 
 # 顯示結果
