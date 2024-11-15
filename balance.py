@@ -10,7 +10,7 @@ def process_and_balance_data(file_path):
         2: 2, 3: 2,
         4: 3, 5: 3, 6: 3
     }
-    data["Launch price category"] = data["Launch price category"].replace(label_mapping)
+    #data["Launch price category"] = data["Launch price category"].replace(label_mapping)
 
     # Drop rows where the target variable 'Launch price category' is missing
     data = data.dropna(subset=['Launch price category'])
@@ -49,14 +49,14 @@ def process_and_balance_data(file_path):
 # Example usage
 def main():
     # File path for the input CSV
-    file_path = './data/prunedB.csv'
+    file_path = './data/pruned.csv'
     
     # Process and balance data
     balanced_train_data, test_data = process_and_balance_data(file_path)
     
     # Save the balanced training data and test data to CSV files
-    balanced_train_data.to_csv('./balanced_train_data_4Bins.csv', index=False)
-    test_data.to_csv('./test_data_4Bins.csv', index=False)
+    balanced_train_data.to_csv('./balanced_train_data.csv', index=False)
+    test_data.to_csv('./test_data.csv', index=False)
 
 
 if __name__ == "__main__":
