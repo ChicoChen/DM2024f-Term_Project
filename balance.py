@@ -6,12 +6,6 @@ def process_and_balance_data(file_path):
     # Load the data
     data = pd.read_csv(file_path)
 
-    label_mapping = {
-        2: 2, 3: 2,
-        4: 3, 5: 3, 6: 3
-    }
-    #data["Launch price category"] = data["Launch price category"].replace(label_mapping)
-
     # Drop rows where the target variable 'Launch price category' is missing
     data = data.dropna(subset=['Launch price category'])
 
