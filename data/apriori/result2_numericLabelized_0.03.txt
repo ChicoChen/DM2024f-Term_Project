@@ -1,0 +1,679 @@
+33.0	{Launch price category_1.0,Accelerometer_1}
+33.0	{Launch price category_1.0,Autofocus_Laser autofocus_0}
+33.0	{Launch price category_1.0,Advanced cooling_Active fan_0}
+32.9	{Launch price category_1.0,Fingerprint_1}
+32.9	{Launch price category_1.0,Face recognition sensor_0}
+32.7	{Compass_1,Launch price category_1.0}
+32.7	{Launch price category_1.0,Autofocus_Phase autofocus (Dual Pixel)_0}
+32.7	{Launch price category_1.0,Battery replaceability_0}
+32.6	{Launch price category_1.0,Multi SIM mode_0}
+32.6	{Stabilization_2,Launch price category_1.0}
+32.6	{Launch price category_1.0,Depth sensor (TOF 3D)_0}
+32.6	{Launch price category_1.0,Fast charging_1}
+32.6	{Launch price category_1.0,Bokeh mode_1}
+32.1	{Launch price category_1.0,Neural processor (NPU)_1}
+31.8	{Launch price category_1.0,Gyroscope_1}
+31.8	{Launch price category_1.0,Pro mode_1}
+31.7	{Launch price category_1.0,Ambient light sensor_1}
+31.2	{Launch price category_1.0,8K video recording_0}
+31.1	{Launch price category_0.0,Face recognition sensor_0}
+31.1	{8K video recording_0,Launch price category_0.0}
+31.1	{Autofocus_Laser autofocus_0,Launch price category_0.0}
+31.1	{Launch price category_1.0,effect sensor_0}
+31.1	{Autofocus_Phase autofocus (Dual Pixel)_0,Launch price category_0.0}
+31.1	{Advanced cooling_Active fan_0,Launch price category_0.0}
+31.1	{Depth sensor (TOF 3D)_0,Launch price category_0.0}
+31.1	{Launch price category_1.0,Hall_0}
+30.9	{Launch price category_0.0,Accelerometer_1}
+30.9	{Launch price category_0.0,Autofocus_Phase autofocus_0}
+30.9	{Battery replaceability_0,Launch price category_0.0}
+30.9	{Wireless charging_0,Launch price category_1.0}
+30.9	{Multi SIM mode_0,Launch price category_0.0}
+30.8	{Zoom_0,Launch price category_0.0}
+30.8	{Advanced cooling_Vapor chamber_0,Launch price category_0.0}
+30.8	{effect sensor_0,Launch price category_0.0}
+30.8	{Launch price category_0.0,Hall_0}
+30.8	{Advanced cooling_nan_1,Launch price category_0.0}
+30.6	{Wireless charging_0,Launch price category_0.0}
+30.6	{Launch price category_1.0,Autofocus_Phase autofocus_0}
+30.6	{Frame material_0,Launch price category_0.0}
+30.5	{Launch price category_0.0,Barometer_0}
+30.3	{Launch price category_1.0,Zoom_0}
+30.2	{Launch price category_0.0,eSIM support*_0}
+30.2	{Launch price category_1.0,Number of SIM*_2}
+30.0	{Launch price category_0.0,Number of SIM*_2}
+30.0	{Headphone audio jack_1,Launch price category_0.0}
+29.9	{RAW support_0,Launch price category_0.0}
+29.7	{Video resolution_FPS_1,Launch price category_0.0}
+29.7	{Launch price category_0.0,Adaptive refresh rate_0}
+29.6	{Launch price category_1.0,RAW support_0}
+29.6	{Launch price category_0.0,Bokeh mode_1}
+29.4	{Launch price category_0.0,Memory card_1}
+29.4	{Launch price category_1.0,Barometer_0}
+29.1	{Launch price category_1.0,Battery type_0}
+29.0	{Channels_2,Launch price category_0.0}
+29.0	{Launch price category_1.0,Proximity sensor_1}
+28.8	{Memory type_3,Launch price category_0.0}
+28.8	{Fingerprint_1,Launch price category_0.0}
+28.7	{Launch price category_1.0,eSIM support*_0}
+28.4	{Video resolution_p_2,Launch price category_0.0}
+28.4	{Stabilization_2,Launch price category_0.0}
+28.1	{Launch price category_0.0,HDR support_0}
+28.1	{Launch price category_0.0,Ambient light sensor_1}
+27.8	{4K video recording_0,Launch price category_0.0}
+27.8	{Rear material_0,Launch price category_0.0}
+27.3	{Launch price category_1.0,Category_1}
+26.8	{Launch price category_1.0,Video resolution_FPS_1}
+26.7	{Launch price category_1.0,Reverse charging_0}
+26.5	{Launch price category_1.0,1080p video recording_2}
+26.5	{Launch price category_0.0,Reverse charging_0}
+26.4	{Launch price category_0.0,Fast charging_1}
+26.2	{5G support_1,Launch price category_1.0}
+25.8	{Launch price category_1.0,Pixels_X_1080}
+25.8	{Frame material_0,Launch price category_1.0}
+25.6	{Launch price category_1.0,Video resolution_p_2}
+25.5	{Launch price category_1.0,Hybrid slot_0}
+25.3	{Launch price category_1.0,FM radio_0}
+25.3	{Launch price category_0.0,L3 cache (mb)_1}
+25.2	{Launch price category_1.0,NFC*_2}
+25.0	{Launch price category_0.0,Hybrid slot_0}
+25.0	{Launch price category_0.0,Proximity sensor_1}
+24.7	{Launch price category_1.0,Adaptive refresh rate_0}
+24.7	{Flash_1,Launch price category_0.0}
+24.4	{Battery type_0,Launch price category_0.0}
+24.1	{Compass_1,Launch price category_0.0}
+24.0	{1080p video recording_1,Launch price category_0.0}
+23.8	{Infrared port_0,Launch price category_0.0}
+23.8	{Launch price category_0.0,Neural processor (NPU)_1}
+23.7	{Channels_2,Launch price category_1.0}
+23.7	{Manufacturing_0,Launch price category_0.0}
+23.7	{Pro mode_1,Launch price category_0.0}
+23.4	{Advanced cooling_nan_1,Launch price category_1.0}
+23.4	{Advanced cooling_Vapor chamber_0,Launch price category_1.0}
+23.2	{Launch price category_1.0,Manufacturing_0}
+22.9	{Launch price category_1.0,Memory type_3}
+22.8	{Launch price category_0.0,5G support_0}
+22.5	{Launch price category_1.0,Speakers_Mono_0}
+22.3	{Launch price category_1.0,Speakers_Stereo_1}
+22.3	{Launch price category_0.0,Touch sampling rate_60}
+22.2	{FM radio_1,Launch price category_0.0}
+21.9	{Battery capacity (mAh)_5000,Launch price category_0.0}
+21.7	{Flash_1,Launch price category_1.0}
+21.4	{Launch price category_1.0,Dolby Atmos_1}
+21.4	{Launch price category_0.0,Fingerprint scanner_1}
+21.3	{Infrared port_0,Launch price category_1.0}
+21.0	{Launch price category_1.0,Fingerprint scanner_0}
+20.5	{Bundled charger_1,Launch price category_1.0}
+20.5	{Bundled charger_1,Launch price category_0.0}
+20.4	{Launch price category_0.0,GPU_0}
+20.1	{Launch price category_1.0,Refresh rate_120}
+19.9	{Launch price category_1.0,HDR support_1}
+19.6	{Launch price category_0.0,Speakers_Stereo_0}
+19.5	{Launch price category_1.0,Storage size (GB)_128}
+19.5	{Total Score_0,Launch price category_0.0}
+19.3	{Speakers_Mono_1,Launch price category_0.0}
+19.0	{Launch price category_0.0,Waterproof_3}
+19.0	{Launch price category_0.0,CPU_0}
+19.0	{Launch price category_1.0,L3 cache (mb)_1}
+19.0	{UX_0,Launch price category_0.0}
+18.9	{Launch price category_1.0,Headphone audio jack_0}
+18.9	{Display features_3,Launch price category_0.0}
+18.1	{Launch price category_0.0,Gyroscope_1}
+18.1	{Launch price category_1.0,Memory card_0}
+17.8	{Pixels_X_1080,Launch price category_0.0}
+17.8	{Launch price category_0.0,Dolby Atmos_0}
+17.6	{Launch price category_1.0,Rear material_0}
+17.6	{Memory_0,Launch price category_0.0}
+17.6	{4K video recording_1,Launch price category_1.0}
+17.3	{Type_2,Launch price category_0.0}
+16.4	{Launch price category_1.0,Battery capacity (mAh)_5000}
+16.4	{Launch price category_1.0,Waterproof_3}
+15.8	{Launch price category_0.0,PPI_0}
+15.7	{Launch price category_0.0,Category_0}
+15.4	{Launch price category_1.0,RAM size (GB)_8}
+15.4	{Category_1,Launch price category_0.0}
+15.4	{Launch price category_1.0,Type_0}
+14.8	{Launch price category_1.0,Memory card_1}
+14.8	{Launch price category_1.0,Pixels_Y_2400}
+14.6	{Launch price category_1.0,Display features_0}
+14.3	{Launch price category_1.0,Touch sampling rate_60}
+14.3	{Storage type_1,Launch price category_0.0}
+14.2	{Matrix (megapixels)_50,Launch price category_1.0}
+14.2	{Headphone audio jack_1,Launch price category_1.0}
+14.0	{Launch price category_1.0,Front camera megapixels_16.0}
+13.7	{NFC*_2,Launch price category_0.0}
+13.7	{Launch price category_1.0,LTE Cat*_20}
+13.6	{Aperture_2.0,Launch price category_0.0}
+13.4	{RAM size (GB)_4,Launch price category_0.0}
+13.3	{Height (mm)_3,Launch price category_0.0}
+13.3	{Dolby Atmos_1,Launch price category_0.0}
+13.3	{Launch price category_0.0,Lithography process (nm)_12}
+13.3	{Refresh rate_90,Launch price category_0.0}
+13.1	{Matrix (megapixels)_50,Launch price category_0.0}
+13.1	{Launch price category_1.0,HDR support_0}
+13.0	{Multi SIM mode_0,Launch price category_2.0}
+13.0	{Gyroscope_1,Launch price category_2.0}
+13.0	{Compass_1,Launch price category_2.0}
+13.0	{Gyroscope_0,Launch price category_0.0}
+13.0	{Pixels_X_720,Launch price category_0.0}
+13.0	{Launch price category_1.0,GPU_1}
+13.0	{Accelerometer_1,Launch price category_2.0}
+13.0	{Launch price category_2.0,Fast charging_1}
+13.0	{Fingerprint_1,Launch price category_2.0}
+12.8	{Depth sensor (TOF 3D)_0,Launch price category_2.0}
+12.8	{Ambient light sensor_1,Launch price category_2.0}
+12.8	{Battery replaceability_0,Launch price category_2.0}
+12.8	{Pro mode_1,Launch price category_2.0}
+12.8	{Stabilization_2,Launch price category_2.0}
+12.7	{Launch price category_2.0,Neural processor (NPU)_1}
+12.7	{Launch price category_2.0,Bokeh mode_1}
+12.7	{Face recognition sensor_0,Launch price category_2.0}
+12.7	{NFC*_2,Launch price category_2.0}
+12.5	{Launch price category_1.0,Bundled charger_0}
+12.5	{Autofocus_Phase autofocus (Dual Pixel)_0,Launch price category_2.0}
+12.5	{FM radio_0,Launch price category_2.0}
+12.4	{Launch price category_3.0,Multi SIM mode_0}
+12.4	{Launch price category_3.0,Accelerometer_1}
+12.4	{Autofocus_Laser autofocus_0,Launch price category_2.0}
+12.4	{NFC*_2,Launch price category_3.0}
+12.4	{Launch price category_3.0,Battery replaceability_0}
+12.4	{Launch price category_3.0,Fast charging_1}
+12.4	{Compass_1,Launch price category_3.0}
+12.4	{Launch price category_3.0,Gyroscope_1}
+12.4	{Launch price category_1.0,LTE Cat*_18}
+12.2	{Category_2,Launch price category_3.0}
+12.2	{Proximity sensor_1,Launch price category_2.0}
+12.2	{Stabilization_2,Launch price category_3.0}
+12.2	{Launch price category_3.0,Proximity sensor_1}
+12.2	{Launch price category_3.0,Ambient light sensor_1}
+12.2	{Launch price category_3.0,FM radio_0}
+12.2	{Launch price category_3.0,Pro mode_1}
+12.1	{Advanced cooling_Active fan_0,Launch price category_2.0}
+12.1	{Launch price category_3.0,Fingerprint_1}
+12.1	{Launch price category_3.0,Frame material_1}
+12.1	{Launch price category_3.0,Bokeh mode_1}
+11.9	{Launch price category_1.0,Total Score_1}
+11.9	{Launch price category_1.0,Height (mm)_1}
+11.9	{Launch price category_1.0,UX_2}
+11.9	{Launch price category_3.0,Depth sensor (TOF 3D)_0}
+11.9	{Launch price category_3.0,HDR support_1}
+11.9	{Launch price category_1.0,Rear material_1}
+11.9	{Launch price category_3.0,Neural processor (NPU)_1}
+11.9	{1080p video recording_2,Launch price category_2.0}
+11.9	{Launch price category_3.0,Advanced cooling_Active fan_0}
+11.8	{Autofocus_Laser autofocus_0,Launch price category_3.0}
+11.8	{Launch price category_0.0,Speakers_Mono_0}
+11.8	{Storage type_4,Launch price category_0.0}
+11.8	{Launch price category_1.0,Infrared port_1}
+11.8	{Pixel size (micron)_1.0,Launch price category_1.0}
+11.8	{Launch price category_1.0,Lithography process (nm)_6}
+11.6	{Launch price category_1.0,Dolby Atmos_0}
+11.6	{effect sensor_0,Launch price category_2.0}
+11.6	{Launch price category_2.0,Hall_0}
+11.6	{Weight (gr)_0,Launch price category_1.0}
+11.6	{HDR support_1,Launch price category_2.0}
+11.6	{Launch price category_3.0,Face recognition sensor_0}
+11.6	{Launch price category_3.0,Speakers_Mono_0}
+11.6	{Launch price category_3.0,Speakers_Stereo_1}
+11.5	{Launch price category_0.0,Sensor size_3.00395390070922}
+11.5	{Launch price category_0.0,Speakers_Stereo_1}
+11.5	{Launch price category_1.0,Total Score_2}
+11.5	{CPU_1,Launch price category_1.0}
+11.5	{CPU_2,Launch price category_1.0}
+11.3	{Launch price category_2.0,Speakers_Mono_0}
+11.3	{Launch price category_1.0,Memory_1}
+11.3	{Front camera megapixels_8.0,Launch price category_0.0}
+11.2	{Battery type_0,Launch price category_2.0}
+11.2	{Launch price category_1.0,UX_1}
+11.2	{Launch price category_1.0,GPU_2}
+11.2	{CPU_1,Launch price category_0.0}
+11.2	{Launch price category_0.0,UX_1}
+11.2	{Launch price category_0.0,Storage size (GB)_128}
+11.2	{Memory_1,Launch price category_0.0}
+11.2	{Storage type_6,Launch price category_1.0}
+11.0	{5G support_1,Launch price category_2.0}
+11.0	{Hybrid slot_0,Launch price category_2.0}
+11.0	{Category_2,Launch price category_2.0}
+11.0	{Launch price category_0.0,Width (mm)_3}
+10.9	{Launch price category_0.0,Storage size (GB)_64}
+10.9	{Speakers_Stereo_1,Launch price category_2.0}
+10.9	{Launch price category_1.0,Storage type_4}
+10.7	{Launch price category_1.0,Speakers_Stereo_0}
+10.7	{Launch price category_0.0,Total Score_1}
+10.7	{Launch price category_1.0,Flash_2}
+10.7	{Number of SIM*_2,Launch price category_2.0}
+10.7	{Launch price category_3.0,1080p video recording_2}
+10.7	{Launch price category_0.0,Refresh rate_60}
+10.7	{Headphone audio jack_0,Launch price category_2.0}
+10.6	{Launch price category_1.0,Thickness (mm)_0}
+10.6	{Launch price category_0.0,Bundled charger_0}
+10.6	{Launch price category_3.0,Rear material_1}
+10.6	{Launch price category_1.0,RAM size (GB)_6}
+10.6	{Speakers_Mono_1,Launch price category_1.0}
+10.6	{Launch price category_2.0,Fingerprint scanner_0}
+10.4	{Launch price category_1.0,Memory_2}
+10.4	{Launch price category_1.0,Lithography process (nm)_4}
+10.4	{Launch price category_2.0,Autofocus_Phase autofocus_0}
+10.3	{Autofocus_Phase autofocus (Dual Pixel)_0,Launch price category_3.0}
+10.3	{Memory card_0,Launch price category_2.0}
+10.3	{Width (mm)_2,Launch price category_0.0}
+10.3	{Wireless charging_1,Launch price category_3.0}
+10.1	{Weight (gr)_2,Launch price category_0.0}
+10.1	{Launch price category_3.0,Hybrid slot_0}
+10.0	{Launch price category_1.0,Fingerprint scanner_1}
+10.0	{4K video recording_2,Launch price category_3.0}
+10.0	{Dolby Atmos_1,Launch price category_3.0}
+10.0	{Launch price category_1.0,PPI_1}
+10.0	{GPU_1,Launch price category_0.0}
+9.8	{Thickness (mm)_1,Launch price category_0.0}
+9.8	{Rear material_1,Launch price category_2.0}
+9.8	{Launch price category_3.0,Memory card_0}
+9.8	{Launch price category_1.0,Width (mm)_0}
+9.8	{Launch price category_1.0,Width (mm)_1}
+9.8	{Dolby Atmos_1,Launch price category_2.0}
+9.8	{eSIM support*_0,Launch price category_2.0}
+9.8	{Reverse charging_1,Launch price category_3.0}
+9.7	{Launch price category_1.0,PPI_2}
+9.7	{Advanced cooling_nan_0,Launch price category_1.0}
+9.7	{Launch price category_1.0,Thickness (mm)_1}
+9.7	{Launch price category_1.0,Advanced cooling_Vapor chamber_1}
+9.7	{Launch price category_1.0,Weight (gr)_1}
+9.7	{5G support_1,Launch price category_3.0}
+9.5	{Launch price category_1.0,Storage size (GB)_256}
+9.5	{Launch price category_2.0,Frame material_1}
+9.5	{Thickness (mm)_3,Launch price category_0.0}
+9.4	{Weight (gr)_1,Launch price category_0.0}
+9.4	{Launch price category_1.0,Manufacturing_1}
+9.4	{Launch price category_3.0,Fingerprint scanner_0}
+9.4	{NFC*_1,Launch price category_0.0}
+9.4	{Launch price category_1.0,Phone age in days_1}
+9.2	{8K video recording_0,Launch price category_2.0}
+9.2	{Launch price category_3.0,Number of SIM*_2}
+9.2	{Launch price category_0.0,Pixel size (micron)_0.9680385288966724}
+9.2	{Launch price category_0.0,Pixel size (micron)_1.12}
+9.2	{Video resolution_FPS_1,Launch price category_2.0}
+9.2	{Launch price category_3.0,Headphone audio jack_0}
+9.2	{Zoom_0,Launch price category_2.0}
+9.2	{Launch price category_3.0,Battery type_0}
+9.2	{Launch price category_1.0,Channels_4}
+9.2	{LTE Cat*_20,Launch price category_3.0}
+9.0	{Launch price category_1.0,Phone age in days_0}
+9.0	{Lithography process (nm)_6,Launch price category_0.0}
+9.0	{Launch price category_0.0,PPI_1}
+8.9	{FM radio_0,Launch price category_0.0}
+8.9	{Infrared port_0,Launch price category_3.0}
+8.9	{4K video recording_2,Launch price category_2.0}
+8.7	{Launch price category_3.0,Autofocus_Phase autofocus_0}
+8.7	{Barometer_0,Launch price category_2.0}
+8.7	{Waterproof_1,Launch price category_3.0}
+8.7	{Advanced cooling_Vapor chamber_0,Launch price category_2.0}
+8.6	{Launch price category_3.0,RAW support_1}
+8.6	{Pixels_Y_2400,Launch price category_0.0}
+8.6	{Front camera megapixels_32.0,Launch price category_1.0}
+8.6	{RAW support_0,Launch price category_2.0}
+8.6	{Bundled charger_1,Launch price category_2.0}
+8.6	{Aperture_2.4,Launch price category_1.0}
+8.6	{Pixel size (micron)_0.8,Launch price category_1.0}
+8.4	{Brand_2,Launch price category_0.0}
+8.4	{Phone age in days_1,Launch price category_0.0}
+8.3	{Launch price category_1.0,Adaptive refresh rate_1}
+8.3	{Launch price category_1.0,Height (mm)_0}
+8.3	{Launch price category_1.0,Aperture_2.5}
+8.3	{LTE Cat*_20,Launch price category_2.0}
+8.3	{Manufacturing_0,Launch price category_2.0}
+8.3	{5G support_1,Launch price category_0.0}
+8.1	{Channels_4,Launch price category_3.0}
+8.1	{Matrix (megapixels)_50,Launch price category_2.0}
+8.1	{Infrared port_0,Launch price category_2.0}
+8.1	{LTE Cat*_7,Launch price category_0.0}
+8.1	{Wireless charging_0,Launch price category_2.0}
+8.1	{Display features_0,Launch price category_2.0}
+8.0	{Launch price category_1.0,Max rated brightness_500}
+8.0	{NFC*_0,Launch price category_0.0}
+8.0	{RAM size (GB)_8,Launch price category_2.0}
+8.0	{Phone age in days_3,Launch price category_0.0}
+7.8	{Pixels_Y_1600,Launch price category_0.0}
+7.8	{Advanced cooling_nan_1,Launch price category_2.0}
+7.8	{Phone age in days_2,Launch price category_0.0}
+7.8	{Launch price category_1.0,Width (mm)_2}
+7.7	{Launch price category_1.0,Aperture_2.2}
+7.7	{Launch price category_3.0,Hall_0}
+7.7	{Launch price category_3.0,effect sensor_0}
+7.7	{GPU_3,Launch price category_3.0}
+7.7	{Zoom_0,Launch price category_3.0}
+7.7	{4K video recording_0,Launch price category_1.0}
+7.7	{4K video recording_2,Launch price category_1.0}
+7.7	{Launch price category_2.0,Flash_2}
+7.7	{Reverse charging_0,Launch price category_2.0}
+7.7	{FM radio_1,Launch price category_1.0}
+7.5	{Launch price category_3.0,Refresh rate_120}
+7.5	{Launch price category_3.0,Bundled charger_0}
+7.5	{Launch price category_1.0,Hybrid slot_1}
+7.5	{Launch price category_2.0,Refresh rate_120}
+7.4	{Barometer_1,Launch price category_3.0}
+7.4	{Launch price category_0.0,Height (mm)_2}
+7.4	{Video resolution_p_4,Launch price category_3.0}
+7.4	{Pro mode_0,Launch price category_0.0}
+7.4	{Launch price category_2.0,Adaptive refresh rate_0}
+7.4	{Display Size_6.5,Launch price category_0.0}
+7.4	{Video resolution_p_2,Launch price category_2.0}
+7.4	{Channels_4,Launch price category_2.0}
+7.4	{Launch price category_1.0,Phone age in days_2}
+7.2	{Infrared port_1,Launch price category_0.0}
+7.2	{Launch price category_1.0,Display features_1}
+7.2	{Video resolution_p_4,Launch price category_1.0}
+7.2	{Launch price category_0.0,Neural processor (NPU)_0}
+7.2	{Phone age in days_3,Launch price category_1.0}
+7.2	{Thickness (mm)_2,Launch price category_1.0}
+7.2	{Launch price category_1.0,Height (mm)_2}
+7.2	{Weight (gr)_0,Launch price category_0.0}
+7.2	{Total Score_3,Launch price category_3.0}
+7.2	{Launch price category_1.0,Matrix (megapixels)_64}
+7.2	{Brand_2,Launch price category_1.0}
+7.1	{Launch price category_0.0,Refresh rate_120}
+7.1	{Thickness (mm)_2,Launch price category_0.0}
+7.1	{Aperture_2.2,Launch price category_0.0}
+7.1	{UX_3,Launch price category_3.0}
+6.9	{Launch price category_3.0,Lithography process (nm)_4}
+6.9	{Storage size (GB)_128,Launch price category_2.0}
+6.9	{Matrix (megapixels)_50,Launch price category_3.0}
+6.9	{Compass_0,Launch price category_0.0}
+6.9	{NFC*_1,Launch price category_1.0}
+6.9	{PPI_3,Launch price category_1.0}
+6.9	{Launch price category_0.0,1080p video recording_2}
+6.9	{Max charge power_18,Launch price category_0.0}
+6.8	{Launch price category_0.0,Phone age in days_0}
+6.8	{Launch price category_1.0,Touch sampling rate_240}
+6.8	{Manufacturing_1,Launch price category_0.0}
+6.8	{PPI_3,Launch price category_3.0}
+6.8	{Launch price category_3.0,Manufacturing_0}
+6.8	{Launch price category_3.0,CPU_3}
+6.8	{Touch sampling rate_60,Launch price category_2.0}
+6.8	{Launch price category_2.0,Type_0}
+6.8	{Pixels_X_1080,Launch price category_2.0}
+6.8	{Launch price category_1.0,5G support_0}
+6.6	{Front camera megapixels_16.0,Launch price category_0.0}
+6.6	{Launch price category_3.0,Touch sampling rate_60}
+6.6	{Advanced cooling_Vapor chamber_0,Launch price category_3.0}
+6.6	{Launch price category_1.0,CPU_3}
+6.6	{Launch price category_0.0,Battery type_1}
+6.6	{Launch price category_3.0,eSIM support*_0}
+6.6	{Memory_3,Launch price category_3.0}
+6.5	{Video resolution_FPS_1,Launch price category_3.0}
+6.5	{Launch price category_1.0,Display Size_6.7}
+6.5	{Launch price category_3.0,Storage size (GB)_128}
+6.5	{Launch price category_1.0,PPI_0}
+6.5	{Launch price category_2.0,Lithography process (nm)_4}
+6.5	{Launch price category_1.0,Memory_3}
+6.5	{Adaptive refresh rate_1,Launch price category_3.0}
+6.5	{Launch price category_0.0,Max charge power_33}
+6.5	{Launch price category_3.0,RAM size (GB)_8}
+6.5	{Launch price category_3.0,Flash_2}
+6.3	{Launch price category_1.0,Storage type_3}
+6.3	{Reverse charging_1,Launch price category_1.0}
+6.3	{Launch price category_1.0,Weight (gr)_2}
+6.3	{UX_3,Launch price category_1.0}
+6.2	{Advanced cooling_nan_0,Launch price category_3.0}
+6.2	{Launch price category_0.0,Width (mm)_1}
+6.2	{Storage type_6,Launch price category_2.0}
+6.2	{Pixels_X_1080,Launch price category_3.0}
+6.2	{Video resolution_FPS_2,Launch price category_1.0}
+6.2	{Brand_5,Launch price category_0.0}
+6.2	{Advanced cooling_nan_1,Launch price category_3.0}
+6.0	{Proximity sensor_0,Launch price category_0.0}
+6.0	{Launch price category_2.0,GPU_2}
+6.0	{Launch price category_3.0,Display features_1}
+6.0	{Launch price category_0.0,Hybrid slot_1}
+6.0	{Launch price category_1.0,Refresh rate_60}
+6.0	{Max rated brightness_450,Launch price category_0.0}
+6.0	{Launch price category_3.0,Width (mm)_0}
+5.9	{Aperture_2.0,Launch price category_1.0}
+5.9	{Memory_3,Launch price category_2.0}
+5.9	{GPU_3,Launch price category_2.0}
+5.9	{Launch price category_3.0,Adaptive refresh rate_0}
+5.9	{CPU_3,Launch price category_2.0}
+5.9	{Launch price category_0.0,Max rated brightness_500}
+5.9	{Height (mm)_1,Launch price category_0.0}
+5.9	{PPI_2,Launch price category_0.0}
+5.9	{Flash_1,Launch price category_3.0}
+5.9	{Total Score_3,Launch price category_1.0}
+5.9	{Storage size (GB)_32,Launch price category_0.0}
+5.9	{Video resolution_FPS_2,Launch price category_3.0}
+5.9	{Total Score_3,Launch price category_2.0}
+5.9	{8K video recording_0,Launch price category_3.0}
+5.7	{Launch price category_1.0,1080p video recording_1}
+5.7	{Total Score_2,Launch price category_2.0}
+5.7	{Launch price category_3.0,Advanced cooling_Vapor chamber_1}
+5.7	{eSIM support*_1,Launch price category_3.0}
+5.7	{UX_3,Launch price category_2.0}
+5.7	{Height (mm)_0,Launch price category_3.0}
+5.7	{Display features_2,Launch price category_0.0}
+5.7	{LTE Cat*_20,Launch price category_0.0}
+5.6	{Launch price category_1.0,Height (mm)_3}
+5.6	{Launch price category_1.0,Category_2}
+5.6	{Launch price category_1.0,Width (mm)_3}
+5.6	{Thickness (mm)_3,Launch price category_1.0}
+5.6	{Launch price category_1.0,GPU_3}
+5.6	{Adaptive refresh rate_1,Launch price category_2.0}
+5.6	{Launch price category_0.0,RAM size (GB)_8}
+5.6	{UX_2,Launch price category_2.0}
+5.6	{Display Size_6.67,Launch price category_1.0}
+5.4	{Storage size (GB)_256,Launch price category_2.0}
+5.4	{Launch price category_1.0,Frame material_1}
+5.4	{Launch price category_1.0,L3 cache (mb)_2}
+5.4	{Memory type_4,Launch price category_2.0}
+5.4	{Launch price category_1.0,Weight (gr)_3}
+5.3	{Channels_2,Launch price category_2.0}
+5.3	{Flash_1,Launch price category_2.0}
+5.3	{Reverse charging_1,Launch price category_2.0}
+5.3	{Video resolution_p_4,Launch price category_2.0}
+5.3	{Memory_2,Launch price category_2.0}
+5.3	{Launch price category_1.0,Pixel size (micron)_1.12}
+5.3	{Manufacturing_1,Launch price category_3.0}
+5.3	{Display features_0,Launch price category_3.0}
+5.3	{CPU_2,Launch price category_2.0}
+5.3	{PPI_3,Launch price category_2.0}
+5.1	{Front camera megapixels_5.0,Launch price category_0.0}
+5.1	{Launch price category_0.0,Type_0}
+5.1	{Advanced cooling_nan_0,Launch price category_2.0}
+5.1	{Launch price category_1.0,Type_3}
+5.0	{Launch price category_0.0,RAM size (GB)_3}
+5.0	{Launch price category_0.0,Max charge power_15}
+5.0	{Memory type_4,Launch price category_1.0}
+5.0	{Launch price category_3.0,Barometer_0}
+5.0	{Memory type_4,Launch price category_3.0}
+5.0	{Launch price category_1.0,Type_1}
+4.8	{Launch price category_2.0,Waterproof_3}
+4.8	{Bundled charger_1,Launch price category_3.0}
+4.8	{Launch price category_1.0,Brand_5}
+4.8	{Infrared port_1,Launch price category_2.0}
+4.8	{Launch price category_1.0,Memory_0}
+4.8	{Launch price category_1.0,Waterproof_0}
+4.8	{Wireless charging_1,Launch price category_2.0}
+4.8	{Front camera megapixels_32.0,Launch price category_2.0}
+4.7	{Launch price category_3.0,effect sensor_1}
+4.7	{Waterproof_0,Launch price category_0.0}
+4.7	{Storage type_7,Launch price category_3.0}
+4.7	{Launch price category_0.0,Thickness (mm)_0}
+4.7	{Launch price category_3.0,Zoom_1}
+4.7	{LTE Cat*_13,Launch price category_0.0}
+4.7	{Launch price category_1.0,Memory type_5}
+4.7	{Fast charging_0,Launch price category_0.0}
+4.7	{Launch price category_1.0,Type_2}
+4.7	{Launch price category_3.0,Hall_1}
+4.5	{LTE Cat*_18,Launch price category_0.0}
+4.5	{Height (mm)_0,Launch price category_0.0}
+4.5	{Pixels_Y_2400,Launch price category_2.0}
+4.5	{Launch price category_3.0,Memory type_5}
+4.5	{Sensor size_3.06,Launch price category_1.0}
+4.5	{RAM size (GB)_6,Launch price category_0.0}
+4.5	{Width (mm)_0,Launch price category_2.0}
+4.5	{Reverse charging_1,Launch price category_0.0}
+4.5	{Launch price category_1.0,Sensor size_2.8}
+4.4	{Pixel size (micron)_1.0,Launch price category_0.0}
+4.4	{Display features_2,Launch price category_1.0}
+4.4	{Weight (gr)_3,Launch price category_0.0}
+4.4	{eSIM support*_1,Launch price category_1.0}
+4.4	{Launch price category_3.0,Video resolution_p_2}
+4.4	{Height (mm)_0,Launch price category_2.0}
+4.4	{RAW support_1,Launch price category_2.0}
+4.4	{Launch price category_0.0,Storage type_3}
+4.4	{Launch price category_0.0,Fingerprint scanner_2}
+4.4	{Weight (gr)_3,Launch price category_2.0}
+4.4	{Bundled charger_0,Launch price category_2.0}
+4.4	{Storage type_6,Launch price category_3.0}
+4.4	{Max rated brightness_400,Launch price category_0.0}
+4.2	{Channels_2,Launch price category_3.0}
+4.2	{Launch price category_0.0,Matrix (megapixels)_13}
+4.2	{Launch price category_3.0,Pixel size (micron)_1.22}
+4.2	{Barometer_1,Launch price category_2.0}
+4.2	{L3 cache (mb)_1,Launch price category_2.0}
+4.2	{Memory type_3,Launch price category_2.0}
+4.2	{Launch price category_1.0,Pixels_Y_2412}
+4.2	{Launch price category_1.0,Max charge power_67}
+4.2	{Launch price category_1.0,Refresh rate_90}
+4.2	{Phone age in days_3,Launch price category_3.0}
+4.2	{Advanced cooling_Vapor chamber_1,Launch price category_2.0}
+4.1	{Matrix (megapixels)_48,Launch price category_0.0}
+4.1	{Launch price category_3.0,Type_0}
+4.1	{Aperture_2.0,Launch price category_2.0}
+4.1	{Launch price category_0.0,Max charge power_10}
+4.1	{Touch sampling rate_360,Launch price category_1.0}
+4.1	{LTE Cat*_4,Launch price category_0.0}
+4.1	{Launch price category_1.0,Proximity sensor_0}
+4.1	{Launch price category_2.0,Height (mm)_2}
+4.1	{Weight (gr)_3,Launch price category_3.0}
+4.1	{Launch price category_3.0,Thickness (mm)_0}
+3.9	{Aperture_2.2,Launch price category_3.0}
+3.9	{Waterproof_1,Launch price category_2.0}
+3.9	{Launch price category_1.0,Matrix (megapixels)_48}
+3.9	{Launch price category_0.0,Aperture_2.5}
+3.9	{Thickness (mm)_1,Launch price category_2.0}
+3.9	{Thickness (mm)_3,Launch price category_3.0}
+3.9	{Launch price category_3.0,Brand_5}
+3.9	{Launch price category_1.0,Display Size_6.78}
+3.9	{Launch price category_1.0,Battery type_1}
+3.9	{Launch price category_3.0,Storage size (GB)_256}
+3.9	{PPI_2,Launch price category_2.0}
+3.9	{Launch price category_3.0,Memory_2}
+3.9	{Launch price category_0.0,Flash_2}
+3.9	{Launch price category_0.0,Display features_1}
+3.9	{CPU_2,Launch price category_3.0}
+3.8	{Launch price category_0.0,Brand_11}
+3.8	{Zoom_1,Launch price category_2.0}
+3.8	{Touch sampling rate_180,Launch price category_0.0}
+3.8	{RAW support_0,Launch price category_3.0}
+3.8	{Launch price category_3.0,GPU_2}
+3.8	{Manufacturing_1,Launch price category_2.0}
+3.8	{Video resolution_FPS_2,Launch price category_2.0}
+3.8	{Launch price category_3.0,Pixels_X_1440}
+3.8	{Launch price category_0.0,Display Size_6.6}
+3.8	{Total Score_0,Launch price category_1.0}
+3.8	{Launch price category_1.0,Matrix (megapixels)_108}
+3.8	{Max rated brightness_500,Launch price category_2.0}
+3.8	{Launch price category_0.0,Front camera megapixels_13.0}
+3.6	{Launch price category_0.0,Width (mm)_0}
+3.6	{NFC*_2,Launch price category_4.0}
+3.6	{Aperture_2.4,Launch price category_2.0}
+3.6	{Brand_14,Launch price category_1.0}
+3.6	{Launch price category_2.0,Width (mm)_1}
+3.6	{Rear material_1,Launch price category_4.0}
+3.6	{Accelerometer_1,Launch price category_4.0}
+3.6	{Launch price category_4.0,Neural processor (NPU)_1}
+3.6	{Launch price category_1.0,UX_0}
+3.6	{4K video recording_1,Launch price category_2.0}
+3.6	{Launch price category_4.0,Fast charging_1}
+3.6	{Pro mode_1,Launch price category_4.0}
+3.6	{Launch price category_4.0,Speakers_Stereo_1}
+3.6	{Launch price category_4.0,Gyroscope_1}
+3.6	{Advanced cooling_Active fan_0,Launch price category_4.0}
+3.6	{Launch price category_3.0,Autofocus_Phase autofocus_1}
+3.6	{Autofocus_Laser autofocus_0,Launch price category_4.0}
+3.6	{Fingerprint_1,Launch price category_4.0}
+3.6	{Brand_3,Launch price category_0.0}
+3.6	{Battery replaceability_0,Launch price category_4.0}
+3.6	{Matrix (megapixels)_108,Launch price category_0.0}
+3.6	{Proximity sensor_1,Launch price category_4.0}
+3.6	{Matrix (megapixels)_64,Launch price category_0.0}
+3.6	{Compass_1,Launch price category_4.0}
+3.6	{HDR support_1,Launch price category_4.0}
+3.6	{Launch price category_4.0,Speakers_Mono_0}
+3.6	{Launch price category_1.0,Barometer_1}
+3.6	{Weight (gr)_0,Launch price category_3.0}
+3.6	{Stabilization_2,Launch price category_4.0}
+3.6	{Multi SIM mode_0,Launch price category_4.0}
+3.6	{Launch price category_1.0,Battery capacity (mAh)_4500}
+3.6	{Type_1,Launch price category_3.0}
+3.6	{Category_2,Launch price category_4.0}
+3.6	{Launch price category_4.0,Bokeh mode_1}
+3.6	{RAM size (GB)_4,Launch price category_1.0}
+3.6	{Total Score_2,Launch price category_3.0}
+3.5	{Launch price category_4.0,Frame material_1}
+3.5	{Infrared port_1,Launch price category_3.0}
+3.5	{Phone age in days_2,Launch price category_3.0}
+3.5	{Max charge power_25,Launch price category_1.0}
+3.5	{Launch price category_1.0,CPU_0}
+3.5	{Launch price category_1.0,Storage size (GB)_64}
+3.5	{Matrix (megapixels)_12,Launch price category_3.0}
+3.5	{Launch price category_1.0,RAW support_1}
+3.5	{Thickness (mm)_3,Launch price category_2.0}
+3.5	{FM radio_0,Launch price category_4.0}
+3.3	{Phone age in days_2,Launch price category_2.0}
+3.3	{Launch price category_0.0,Fingerprint scanner_0}
+3.3	{1080p video recording_2,Launch price category_4.0}
+3.3	{Display Size_6.67,Launch price category_0.0}
+3.3	{Launch price category_3.0,Weight (gr)_2}
+3.3	{4K video recording_2,Launch price category_4.0}
+3.3	{Pixel size (micron)_0.8,Launch price category_2.0}
+3.3	{4K video recording_1,Launch price category_0.0}
+3.3	{Launch price category_3.0,UX_2}
+3.3	{Phone age in days_3,Launch price category_2.0}
+3.3	{Phone age in days_1,Launch price category_2.0}
+3.3	{Wireless charging_1,Launch price category_4.0}
+3.3	{Front camera megapixels_16.0,Launch price category_2.0}
+3.3	{Aperture_2.0,Launch price category_3.0}
+3.3	{Ambient light sensor_1,Launch price category_4.0}
+3.3	{Autofocus_Phase autofocus (Dual Pixel)_0,Launch price category_4.0}
+3.3	{Weight (gr)_0,Launch price category_2.0}
+3.3	{Frame material_0,Launch price category_2.0}
+3.3	{Launch price category_1.0,GPU_0}
+3.3	{Launch price category_3.0,8K video recording_1}
+3.2	{Launch price category_0.0,Type_7}
+3.2	{Reverse charging_1,Launch price category_4.0}
+3.2	{Number of SIM*_1,Launch price category_3.0}
+3.2	{Launch price category_1.0,Max charge power_33}
+3.2	{Pixel size (micron)_0.8,Launch price category_0.0}
+3.2	{Headphone audio jack_1,Launch price category_3.0}
+3.2	{Launch price category_1.0,L3 cache (mb)_0}
+3.2	{Height (mm)_1,Launch price category_2.0}
+3.2	{Launch price category_3.0,Battery type_1}
+3.2	{Storage type_7,Launch price category_2.0}
+3.2	{Launch price category_1.0,Sensor size_4.0}
+3.2	{Memory type_5,Launch price category_2.0}
+3.2	{Launch price category_0.0,L3 cache (mb)_5}
+3.2	{Waterproof_1,Launch price category_4.0}
+3.2	{Launch price category_1.0,Display features_3}
+3.2	{Waterproof_2,Launch price category_0.0}
+3.2	{Thickness (mm)_2,Launch price category_2.0}
+3.2	{Dolby Atmos_0,Launch price category_2.0}
+3.2	{Launch price category_4.0,Number of SIM*_2}
+3.2	{Launch price category_1.0,Pixels_Y_2340}
+3.2	{eSIM support*_1,Launch price category_2.0}
+3.2	{Launch price category_3.0,8K video recording_2}
+3.0	{Phone age in days_0,Launch price category_2.0}
+3.0	{Launch price category_4.0,Fingerprint scanner_0}
+3.0	{Sensor size_3.06,Launch price category_0.0}
+3.0	{L3 cache (mb)_2,Launch price category_2.0}
+3.0	{Launch price category_1.0,Lithography process (nm)_7}
+3.0	{Launch price category_0.0,Pixels_Y_2460}
+3.0	{RAM size (GB)_12,Launch price category_2.0}
+3.0	{Launch price category_0.0,Rear material_1}
+3.0	{Launch price category_1.0,RAM size (GB)_12}
+3.0	{Launch price category_3.0,RAM size (GB)_12}
+3.0	{Launch price category_0.0,Ambient light sensor_0}
+3.0	{Sensor size_4.0,Launch price category_0.0}
+3.0	{Storage type_7,Launch price category_1.0}
+3.0	{Depth sensor (TOF 3D)_0,Launch price category_4.0}
+3.0	{5G support_1,Launch price category_4.0}
+3.0	{Launch price category_0.0,HDR support_1}
+3.0	{Brand_14,Launch price category_0.0}
