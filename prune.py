@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-data = pd.read_csv("C:/Users/user/Documents/GitHub/DM2024f-Term_Project/data/processed(merged version).csv", index_col=0)
+data = pd.read_csv("./data/processed(merged version).csv", index_col=0)
 print("original datashape: " + str(data.shape))
 removedColumns = [
     "Accelerometer",
@@ -40,9 +40,9 @@ optionalLines = [
 data = data.drop(columns=removedColumns)
 
 print("pruned.csv: " + str(data.shape))
-data.to_csv("C:/Users/user/Desktop/pruned.csv", index=0)
+data.to_csv("./data/pruned.csv", index=0)
 
 data = data.drop(columns=optionalLines)
 print("aggr_pruned.csv: " + str(data.shape))
-data.to_csv("C:/Users/user/Desktop/aggr_pruned.csv", index=0)
+data.to_csv("./data/aggr_pruned.csv", index=0)
 
