@@ -10,8 +10,7 @@ from sklearn.model_selection import RepeatedKFold
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
 from sklearn.svm import LinearSVC, SVC
 from sklearn.metrics import accuracy_score, classification_report
-
-import balance
+from xgboost import XGBClassifier
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Train and save an SVM model.")
@@ -52,11 +51,22 @@ if __name__ == "__main__":
     pipeline = Pipeline([
         ('scaler', MinMaxScaler()),
         ('svc', SVC(kernel="linear", probability=True, class_weight='balanced'))
+        # ('xgb', XGBClassifier(eval_metric='logloss',
+        #                     min_child_weight=3, gamma=0.1, eta=0.1))
         ])
+    
+    # XGB_param_grid = {
+    #     'xgb__max_depth': [3, 5, 7],
+    #     'xgb__learning_rate': [0.01, 0.1],
+    #     'xgb__n_estimators': [50, 100, 200],
+    #     'xgb__subsample': [0.6, 0.8, 1.0],
+    #     'xgb__colsample_bytree': [0.6, 0.8, 1.0]
+    # }
     param_grid = {
         'svc__C': [0.001, 0.01, 0.1, 1],
-        'svc__tol': [0.001, 0.01, 0.1, 1]
+        'svc__tol': [0.001, 0.01, 0.1, 1],
         }
+
     grid_search = GridSearchCV(
                     pipeline,
                     param_grid,
@@ -72,12 +82,9 @@ if __name__ == "__main__":
     
     cv_end_time = time.time()
     cv_training_time = cv_end_time - cv_start_time
-    print(f"Cross-validation complete, total {cv_training_time:.2f}s.\n")
-    
     best_model = grid_search.best_estimator_
-    # best_model.fit(X, Y)
-    FT_time = time.time() - cv_end_time
-    print(f"Full training complete, total {FT_time:.2f}s.\nNow evaluating on the testing dataset...")
+    print(f"Cross-validation complete, total {cv_training_time:.2f}s.\n")
+    print(f"Now evaluating on the testing dataset...")
     
     #model testing
     testingData = pd.read_csv(testData_path)
@@ -96,6 +103,6 @@ if __name__ == "__main__":
     modelPath = "./models/" + args.modelName
     if args.FourBins:
         modelPath = modelPath + "_4Bins"
-    with open("./models/" + args.modelName + ".pkl", 'wb') as model_file:
+    with open(modelPath + ".pkl", 'wb') as model_file:
         pickle.dump(modelPath + ".pkl", model_file)
     print(f"Model saved at {modelPath}.pkl")

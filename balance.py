@@ -4,7 +4,7 @@ from sklearn.model_selection import RepeatedKFold
 
 def process_and_balance_data(file_path):
     # Load the data
-    data = pd.read_csv(file_path)
+    data = pd.read_csv(file_path, index_col=False)
 
     # Drop rows where the target variable 'Launch price category' is missing
     data = data.dropna(subset=['Launch price category'])
@@ -28,7 +28,7 @@ def process_and_balance_data(file_path):
         y_train, y_test = y.iloc[train_index], y.iloc[test_index]
         
         # Apply SMOTE to balance the training data
-        smote = SMOTE(random_state=42)
+        smote = SMOTE(random_state=42) #optional: random_state=None
         X_train_balanced, y_train_balanced = smote.fit_resample(X_train, y_train)
 
         # Combine resampled features and target variable into a DataFrame for the balanced training data
