@@ -16,7 +16,7 @@ def process_and_balance_data(file_path):
     y = data['Launch price category']
 
     # Drop the first column in X
-    X = X.iloc[:, 1:]
+    # X = X.iloc[:, 1:]
 
     # Initialize RepeatedKFold with an 8:2 split
     rkf = RepeatedKFold(n_splits=5, n_repeats=1, random_state=42)
