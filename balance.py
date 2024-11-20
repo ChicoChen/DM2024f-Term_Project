@@ -16,7 +16,7 @@ def process_and_balance_data(file_path):
     y = data['Launch price category']
 
     # Drop the first column in X
-    X = X.iloc[:, 1:]
+    # X = X.iloc[:, 1:]
 
     # Initialize RepeatedKFold with an 8:2 split
     rkf = RepeatedKFold(n_splits=5, n_repeats=1, random_state=42)
@@ -43,7 +43,7 @@ def process_and_balance_data(file_path):
 # Example usage
 def main():
     # File path for the input CSV
-    file_path = './data/pruned.csv'
+    file_path = './data/pruned(concatSpeakers)/pruned.csv'
     
     # Process and balance data
     balanced_train_data, test_data = process_and_balance_data(file_path)

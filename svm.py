@@ -7,7 +7,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.model_selection import GridSearchCV
 from sklearn.model_selection import RepeatedKFold
 
-from sklearn.preprocessing import MinMaxScaler
+from sklearn.preprocessing import MinMaxScaler, StandardScaler
 from sklearn.svm import LinearSVC, SVC
 from sklearn.metrics import accuracy_score, classification_report
 
@@ -38,19 +38,29 @@ if __name__ == "__main__":
         Y = Y.replace(label_mapping)
     #data["Launch price category"] = data["Launch price category"].replace(label_mapping)
 
+    unique_values = X.nunique()
+    unique_values.to_csv("unique.csv")
+    for col in X.columns:
+        if unique_values[col] > 10:
+            Q1 = X[col].quantile(0.25)  # First quartile
+            Q3 = X[col].quantile(0.75)  # Third quartile
+            IQR = Q3 - Q1  # Interquartile Range
+            lower_bound = Q1 - 1.5 * IQR
+            upper_bound = Q3 + 1.5 * IQR
+            X[col] = X[col].clip(lower=lower_bound, upper=upper_bound)
+            
     pipeline = Pipeline([
         ('scaler', MinMaxScaler()),
-        ('svc', SVC(kernel="linear", probability=True))
+        ('svc', SVC(kernel="linear", probability=True, class_weight='balanced'))
         ])
     param_grid = {
-        'svc__C': [0.01, 0.1, 1, 10, 100],
-        'svc__tol': [1e-7, 1e-5, 1e-4, 1e-2, 1]
+        'svc__C': [0.001, 0.01, 0.1, 1],
+        'svc__tol': [0.001, 0.01, 0.1, 1]
         }
-    RKF = RepeatedKFold(n_splits=5, n_repeats=1)
     grid_search = GridSearchCV(
                     pipeline,
                     param_grid,
-                    cv=RKF,
+                    cv=5,
                     scoring='accuracy',
                     n_jobs=-1
                 )
@@ -65,16 +75,13 @@ if __name__ == "__main__":
     print(f"Cross-validation complete, total {cv_training_time:.2f}s.\n")
     
     best_model = grid_search.best_estimator_
-    best_model.fit(X, Y)
+    # best_model.fit(X, Y)
     FT_time = time.time() - cv_end_time
     print(f"Full training complete, total {FT_time:.2f}s.\nNow evaluating on the testing dataset...")
     
     #model testing
     testingData = pd.read_csv(testData_path)
     X_test = testingData.drop(columns=['Launch price category'])
-    # X_test = minmax.fit_transform(X_test)
-    # X_test = pd.DataFrame(MinMaxScaler().fit_transform(X_test), columns=X_test.columns)
-
 
     Y_test = testingData['Launch price category']
     if args.FourBins:
