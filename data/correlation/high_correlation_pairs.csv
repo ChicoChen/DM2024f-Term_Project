@@ -1,0 +1,335 @@
+Column 1,Column 2,Correlation
+effect sensor,Hall,1.0
+Hall,effect sensor,1.0
+GPU,Total Score,0.9881498961223227
+Total Score,GPU,0.9881498961223227
+CPU,Total Score,0.9824039480320802
+Total Score,CPU,0.9824039480320802
+UX,CPU,0.9782891735676441
+CPU,UX,0.9782891735676441
+Total Score,Memory,0.976426873312281
+Memory,Total Score,0.976426873312281
+Total Score,UX,0.9762221181905797
+UX,Total Score,0.9762221181905797
+PPI,Pixels_Y,0.965418376107529
+Pixels_Y,PPI,0.965418376107529
+Memory,GPU,0.9532806993244543
+GPU,Memory,0.9532806993244543
+GPU,CPU,0.9502600817531703
+CPU,GPU,0.9502600817531703
+CPU,Memory,0.9494614907683495
+Memory,CPU,0.9494614907683495
+Memory,UX,0.9462741285436512
+UX,Memory,0.9462741285436512
+GPU,UX,0.9410838782846138
+UX,GPU,0.9410838782846138
+Channels,Memory type,0.872978975758588
+Memory type,Channels,0.872978975758588
+UX,Storage type,0.8720530150556983
+Storage type,UX,0.8720530150556983
+Memory type,Total Score,0.8683279396894946
+Total Score,Memory type,0.8683279396894946
+CPU,Memory type,0.8657053374822993
+Memory type,CPU,0.8657053374822993
+Memory type,UX,0.8647205073213438
+UX,Memory type,0.8647205073213438
+CPU,Storage type,0.8537478631403136
+Storage type,CPU,0.8537478631403136
+Memory,Memory type,0.8476116208520159
+Memory type,Memory,0.8476116208520159
+GPU,Memory type,0.8454904734337089
+Memory type,GPU,0.8454904734337089
+Channels,CPU,0.8323460044633827
+CPU,Channels,0.8323460044633827
+UX,Channels,0.8228904392743813
+Channels,UX,0.8228904392743813
+Channels,Total Score,0.8202038515822585
+Total Score,Channels,0.8202038515822585
+Total Score,Storage type,0.8195347701658132
+Storage type,Total Score,0.8195347701658132
+Category,4K video recording,0.8096157887434593
+4K video recording,Category,0.8096157887434593
+Memory,Storage type,0.8040020740702184
+Storage type,Memory,0.8040020740702184
+PPI,Pixels_X,0.8016902185956953
+Pixels_X,PPI,0.8016902185956953
+UX,4K video recording,0.7948512116751678
+4K video recording,UX,0.7948512116751678
+GPU,Channels,0.7946462348822502
+Channels,GPU,0.7946462348822502
+UX,RAM size (GB),0.7938563056291718
+RAM size (GB),UX,0.7938563056291718
+Channels,Memory,0.7876026174691273
+Memory,Channels,0.7876026174691273
+4K video recording,CPU,0.7868970600767095
+CPU,4K video recording,0.7868970600767095
+Pixels_X,Pixels_Y,0.7857164043023559
+Pixels_Y,Pixels_X,0.7857164043023559
+CPU,RAM size (GB),0.7771752716761805
+RAM size (GB),CPU,0.7771752716761805
+RAM size (GB),Memory,0.7759497741300166
+Memory,RAM size (GB),0.7759497741300166
+Memory type,Storage type,0.7747367968626341
+Storage type,Memory type,0.7747367968626341
+RAM size (GB),Storage size (GB),0.7726715672665724
+Storage size (GB),RAM size (GB),0.7726715672665724
+4K video recording,HDR support,0.7712545270647769
+HDR support,4K video recording,0.7712545270647769
+Total Score,RAM size (GB),0.7677359014706807
+RAM size (GB),Total Score,0.7677359014706807
+RAM size (GB),Storage type,0.767267650213085
+Storage type,RAM size (GB),0.767267650213085
+4K video recording,Total Score,0.7664260710740223
+Total Score,4K video recording,0.7664260710740223
+Storage type,GPU,0.7578860006778309
+GPU,Storage type,0.7578860006778309
+Category,Launch price category,0.7520514285902189
+Launch price category,Category,0.7520514285902189
+Channels,Storage type,0.7490780955095214
+Storage type,Channels,0.7490780955095214
+Storage type,4K video recording,0.7484087368704134
+4K video recording,Storage type,0.7484087368704134
+4K video recording,Launch price category,0.7469736258830184
+Launch price category,4K video recording,0.7469736258830184
+GPU,4K video recording,0.7439615724597891
+4K video recording,GPU,0.7439615724597891
+LTE Cat*,Storage type,0.7407088176145797
+Storage type,LTE Cat*,0.7407088176145797
+RAM size (GB),Memory type,0.7238961211161792
+Memory type,RAM size (GB),0.7238961211161792
+RAM size (GB),GPU,0.720128700717952
+GPU,RAM size (GB),0.720128700717952
+Category,UX,0.7143175371835926
+UX,Category,0.7143175371835926
+4K video recording,Memory type,0.7101299631740888
+Memory type,4K video recording,0.7101299631740888
+Category,Storage type,0.7065158772592631
+Storage type,Category,0.7065158772592631
+Storage type,Refresh rate,0.7063070568429864
+Refresh rate,Storage type,0.7063070568429864
+Pixels_X,Launch price category,0.7046650540982231
+Launch price category,Pixels_X,0.7046650540982231
+Category,CPU,0.7045095221944034
+CPU,Category,0.7045095221944034
+4K video recording,Memory,0.6980205714364337
+Memory,4K video recording,0.6980205714364337
+UX,Max charge power,0.6971830564813934
+Max charge power,UX,0.6971830564813934
+Channels,4K video recording,0.6925753847537812
+4K video recording,Channels,0.6925753847537812
+Total Score,Category,0.6864594333210009
+Category,Total Score,0.6864594333210009
+Max charge power,Memory,0.6843929138204401
+Memory,Max charge power,0.6843929138204401
+Launch price category,Wireless charging,0.6838051009447955
+Wireless charging,Launch price category,0.6838051009447955
+Max charge power,CPU,0.6824692230018595
+CPU,Max charge power,0.6824692230018595
+Display Size,Weight (gr),0.6796250661577667
+Weight (gr),Display Size,0.6796250661577667
+HDR support,Category,0.6781637125447734
+Category,HDR support,0.6781637125447734
+CPU,Advanced cooling_Vapor chamber,0.6770629664387311
+Advanced cooling_Vapor chamber,CPU,0.6770629664387311
+Advanced cooling_Vapor chamber,Total Score,0.6763596244958111
+Total Score,Advanced cooling_Vapor chamber,0.6763596244958111
+UX,Refresh rate,0.6750022547576539
+Refresh rate,UX,0.6750022547576539
+Display Size,Width (mm),0.674729938913511
+Width (mm),Display Size,0.674729938913511
+4K video recording,1080p video recording,0.6723011649271935
+1080p video recording,4K video recording,0.6723011649271935
+Frame material,Category,0.6713338413198517
+Category,Frame material,0.6713338413198517
+Frame material,4K video recording,0.6709119619768694
+4K video recording,Frame material,0.6709119619768694
+Total Score,Max charge power,0.6708744866727835
+Max charge power,Total Score,0.6708744866727835
+Advanced cooling_Vapor chamber,Memory,0.6660313757980026
+Memory,Advanced cooling_Vapor chamber,0.6660313757980026
+GPU,Category,0.6656289394145122
+Category,GPU,0.6656289394145122
+Memory,Max rated brightness,0.6648655733098785
+Max rated brightness,Memory,0.6648655733098785
+Channels,RAM size (GB),0.6647692378037792
+RAM size (GB),Channels,0.6647692378037792
+5G support,Storage type,0.6641880549242832
+Storage type,5G support,0.6641880549242832
+HDR support,UX,0.6609757635464734
+UX,HDR support,0.6609757635464734
+GPU,Advanced cooling_Vapor chamber,0.6600475698653656
+Advanced cooling_Vapor chamber,GPU,0.6600475698653656
+Advanced cooling_Vapor chamber,UX,0.6594726429435256
+UX,Advanced cooling_Vapor chamber,0.6594726429435256
+RAM size (GB),4K video recording,0.6574094435166912
+4K video recording,RAM size (GB),0.6574094435166912
+Launch price category,Frame material,0.6570356074558807
+Frame material,Launch price category,0.6570356074558807
+Storage size (GB),Memory,0.6527711759221592
+Memory,Storage size (GB),0.6527711759221592
+HDR support,CPU,0.6521623456142109
+CPU,HDR support,0.6521623456142109
+Category,LTE Cat*,0.6520972870773292
+LTE Cat*,Category,0.6520972870773292
+RAM size (GB),Launch price category,0.6503791085836357
+Launch price category,RAM size (GB),0.6503791085836357
+Category,PPI,0.647965702735264
+PPI,Category,0.647965702735264
+LTE Cat*,UX,0.6466460475588341
+UX,LTE Cat*,0.6466460475588341
+CPU,Refresh rate,0.646543226360846
+Refresh rate,CPU,0.646543226360846
+Storage type,HDR support,0.6457919450567622
+HDR support,Storage type,0.6457919450567622
+Max charge power,Storage type,0.6439612066826143
+Storage type,Max charge power,0.6439612066826143
+LTE Cat*,5G support,0.6358188916373546
+5G support,LTE Cat*,0.6358188916373546
+UX,Launch price category,0.6345885434099224
+Launch price category,UX,0.6345885434099224
+Storage size (GB),UX,0.6343000366855933
+UX,Storage size (GB),0.6343000366855933
+Adaptive refresh rate,CPU,0.6318973922546102
+CPU,Adaptive refresh rate,0.6318973922546102
+5G support,UX,0.6303450703662851
+UX,5G support,0.6303450703662851
+Launch price category,CPU,0.6286834961349043
+CPU,Launch price category,0.6286834961349043
+Lithography process (nm),Display features,0.6280029977827257
+Display features,Lithography process (nm),0.6280029977827257
+Total Score,Max rated brightness,0.6273693810552611
+Max rated brightness,Total Score,0.6273693810552611
+Launch price category,Total Score,0.627027375213572
+Total Score,Launch price category,0.627027375213572
+Category,Pixels_Y,0.6268587903696826
+Pixels_Y,Category,0.6268587903696826
+Category,Pixels_X,0.626789788779142
+Pixels_X,Category,0.626789788779142
+RAM size (GB),Category,0.6263027703315371
+Category,RAM size (GB),0.6263027703315371
+Memory,Category,0.62549533060759
+Category,Memory,0.62549533060759
+Max charge power,GPU,0.6243136143628754
+GPU,Max charge power,0.6243136143628754
+8K video recording,GPU,0.6222396362788717
+GPU,8K video recording,0.6222396362788717
+Refresh rate,RAM size (GB),0.621757309342669
+RAM size (GB),Refresh rate,0.621757309342669
+Memory type,Advanced cooling_Vapor chamber,0.6216454555198608
+Advanced cooling_Vapor chamber,Memory type,0.6216454555198608
+Refresh rate,5G support,0.6215314011397338
+5G support,Refresh rate,0.6215314011397338
+Channels,Advanced cooling_Vapor chamber,0.6187480633416039
+Advanced cooling_Vapor chamber,Channels,0.6187480633416039
+LTE Cat*,CPU,0.6183942055178937
+CPU,LTE Cat*,0.6183942055178937
+Adaptive refresh rate,UX,0.6175604492255222
+UX,Adaptive refresh rate,0.6175604492255222
+Storage size (GB),Storage type,0.6174582840374083
+Storage type,Storage size (GB),0.6174582840374083
+Pixels_X,RAM size (GB),0.6173311235689939
+RAM size (GB),Pixels_X,0.6173311235689939
+Launch price category,GPU,0.6172602590694892
+GPU,Launch price category,0.6172602590694892
+Adaptive refresh rate,Total Score,0.6160673183008927
+Total Score,Adaptive refresh rate,0.6160673183008927
+1080p video recording,Category,0.6159909503123692
+Category,1080p video recording,0.6159909503123692
+HDR support,Total Score,0.6158596687174591
+Total Score,HDR support,0.6158596687174591
+GPU,Max rated brightness,0.6149669285836619
+Max rated brightness,GPU,0.6149669285836619
+Memory type,Category,0.6145589869363858
+Category,Memory type,0.6145589869363858
+RAM size (GB),Max charge power,0.6138849132178704
+Max charge power,RAM size (GB),0.6138849132178704
+Memory,Adaptive refresh rate,0.613311029519726
+Adaptive refresh rate,Memory,0.613311029519726
+Storage size (GB),CPU,0.6106879933450309
+CPU,Storage size (GB),0.6106879933450309
+Launch price category,Storage type,0.6101181395126855
+Storage type,Launch price category,0.6101181395126855
+HDR support,Launch price category,0.609571482274925
+Launch price category,HDR support,0.609571482274925
+Total Score,8K video recording,0.6094212802733036
+8K video recording,Total Score,0.6094212802733036
+LTE Cat*,RAM size (GB),0.6093643319584043
+RAM size (GB),LTE Cat*,0.6093643319584043
+Headphone audio jack,Memory card,0.6087058318299297
+Memory card,Headphone audio jack,0.6087058318299297
+Storage size (GB),Total Score,0.6070182712923633
+Total Score,Storage size (GB),0.6070182712923633
+5G support,CPU,0.6063495137520434
+CPU,5G support,0.6063495137520434
+Max rated brightness,CPU,0.6049882487758692
+CPU,Max rated brightness,0.6049882487758692
+Refresh rate,Total Score,0.603427110664353
+Total Score,Refresh rate,0.603427110664353
+Lithography process (nm),Fingerprint scanner,0.6029182992353377
+Fingerprint scanner,Lithography process (nm),0.6029182992353377
+4K video recording,Pixels_Y,0.6007131606356247
+Pixels_Y,4K video recording,0.6007131606356247
+CPU,Memory card,-0.6096110989383076
+Memory card,CPU,-0.6096110989383076
+Lithography process (nm),Memory type,-0.609684152861108
+Memory type,Lithography process (nm),-0.609684152861108
+Storage type,Advanced cooling_nan,-0.6097618447688142
+Advanced cooling_nan,Storage type,-0.6097618447688142
+Max charge power,Display features,-0.6183949851447956
+Display features,Max charge power,-0.6183949851447956
+Display features,Memory,-0.6194103382280863
+Memory,Display features,-0.6194103382280863
+Lithography process (nm),Memory,-0.6220488802293457
+Memory,Lithography process (nm),-0.6220488802293457
+Fingerprint scanner,Storage type,-0.6222974174773813
+Storage type,Fingerprint scanner,-0.6222974174773813
+4K video recording,Headphone audio jack,-0.6257346759109964
+Headphone audio jack,4K video recording,-0.6257346759109964
+Total Score,Display features,-0.6280260389623887
+Display features,Total Score,-0.6280260389623887
+UX,Memory card,-0.6333406156888851
+Memory card,UX,-0.6333406156888851
+Display features,RAM size (GB),-0.6364689045187436
+RAM size (GB),Display features,-0.6364689045187436
+Total Score,Lithography process (nm),-0.6401974178583846
+Lithography process (nm),Total Score,-0.6401974178583846
+RAM size (GB),Lithography process (nm),-0.6409515621743871
+Lithography process (nm),RAM size (GB),-0.6409515621743871
+Channels,Advanced cooling_nan,-0.6457209281471701
+Advanced cooling_nan,Channels,-0.6457209281471701
+Storage type,Headphone audio jack,-0.6530402343733016
+Headphone audio jack,Storage type,-0.6530402343733016
+Refresh rate,Display features,-0.6541592079758592
+Display features,Refresh rate,-0.6541592079758592
+Memory type,Advanced cooling_nan,-0.6582521165302544
+Advanced cooling_nan,Memory type,-0.6582521165302544
+5G support,Lithography process (nm),-0.6593130225731391
+Lithography process (nm),5G support,-0.6593130225731391
+Display features,CPU,-0.6670096840299466
+CPU,Display features,-0.6670096840299466
+Refresh rate,Lithography process (nm),-0.6781812726000901
+Lithography process (nm),Refresh rate,-0.6781812726000901
+Display features,UX,-0.6850459166754144
+UX,Display features,-0.6850459166754144
+Lithography process (nm),CPU,-0.6961122813056684
+CPU,Lithography process (nm),-0.6961122813056684
+Lithography process (nm),UX,-0.7057527403027128
+UX,Lithography process (nm),-0.7057527403027128
+UX,Advanced cooling_nan,-0.7122893704184579
+Advanced cooling_nan,UX,-0.7122893704184579
+Advanced cooling_nan,GPU,-0.7170204627822426
+GPU,Advanced cooling_nan,-0.7170204627822426
+Memory,Advanced cooling_nan,-0.7199222380561299
+Advanced cooling_nan,Memory,-0.7199222380561299
+CPU,Advanced cooling_nan,-0.7238486259271111
+Advanced cooling_nan,CPU,-0.7238486259271111
+Storage type,Display features,-0.7286782107427904
+Display features,Storage type,-0.7286782107427904
+Total Score,Advanced cooling_nan,-0.7307666885764893
+Advanced cooling_nan,Total Score,-0.7307666885764893
+Lithography process (nm),LTE Cat*,-0.7597871431354073
+LTE Cat*,Lithography process (nm),-0.7597871431354073
+Storage type,Lithography process (nm),-0.78029992017806
+Lithography process (nm),Storage type,-0.78029992017806
+Advanced cooling_Vapor chamber,Advanced cooling_nan,-0.9655997983253249
+Advanced cooling_nan,Advanced cooling_Vapor chamber,-0.9655997983253249
