@@ -2,14 +2,16 @@ import pandas as pd
 import time
 import pickle
 import argparse
+import numpy as np
 
 from sklearn.pipeline import Pipeline
 from sklearn.model_selection import GridSearchCV
-from sklearn.model_selection import RepeatedKFold
 
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
+from sklearn.preprocessing import label_binarize
 from sklearn.svm import LinearSVC, SVC
-from sklearn.metrics import accuracy_score, classification_report
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+from sklearn.metrics import roc_auc_score, classification_report
 from xgboost import XGBClassifier
 
 if __name__ == "__main__":
@@ -95,11 +97,36 @@ if __name__ == "__main__":
         Y_test = Y_test.replace(label_mapping)
 
     Y_pred = best_model.predict(X_test)
-    test_accuracy = accuracy_score(Y_test, Y_pred)
+    y_pred_proba = best_model.decision_function(X_test)
+    Y_test_binarized = label_binarize(Y_test, classes=best_model.classes_)
+    
+    metrics = {
+        'Accuracy': accuracy_score(Y_test, Y_pred),
+        'Precision': precision_score(Y_test, Y_pred, average='weighted', zero_division=0),
+        'Recall': recall_score(Y_test, Y_pred, average='weighted', zero_division=0),
+        'F1-score': f1_score(Y_test, Y_pred, average='weighted', zero_division=0),
+        'AUC-ROC': roc_auc_score(Y_test_binarized, y_pred_proba, average='weighted', multi_class='ovr')
+    }
+    for metric, value in metrics.items():
+        print(f"{metric}: {value:.3f}")
+
     test_report = classification_report(Y_test, Y_pred, zero_division=1)
-    print("Testing dataset accuracy: ", test_accuracy)
     print("Testing dataset classification report:\n", test_report)
     
+    # Calculate feature importance
+    feature_names = X_test.columns.to_list()
+    feature_importance = np.abs(best_model['svc'].coef_[0]) if len(best_model['svc'].coef_.shape) > 1 else np.abs(best_model['svc'].coef_)
+    feature_importance_df = pd.DataFrame({
+        'Feature': feature_names,
+        'Importance': feature_importance
+    }).sort_values('Importance', ascending=False)
+    print(f"top 10 features:\n{feature_importance_df.head(10)}")
+
+    feature_importance_path = "./SVM/feature_importances"
+    if args.FourBins:
+        feature_importance_path = feature_importance_path + "_4Bins"
+    feature_importance_df.to_csv(feature_importance_path + ".csv", index=False)
+
     modelPath = "./models/" + args.modelName
     if args.FourBins:
         modelPath = modelPath + "_4Bins"
