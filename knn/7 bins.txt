@@ -1,0 +1,20 @@
+Cross-Validation Metrics (Mean):
+Accuracy     0.848331
+Precision    0.848639
+Recall       0.848526
+F1-Score     0.842022
+dtype: float64
+
+Test Set Metrics:
+Accuracy: 0.6511627906976745
+ Precision (macro avg): 0.5526158469767493
+ Recall (macro avg): 0.48297988001362296
+ F1-Score (macro avg): 0.5057204700061843
+     ROC AUC Scores
+0.0        0.923174
+1.0        0.796009
+2.0        0.621531
+3.0        0.737888
+4.0        0.468254
+5.0        0.630562
+6.0        0.800000
