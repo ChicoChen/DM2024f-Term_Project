@@ -1,0 +1,23 @@
+Best parameters: {'svc__C': 1, 'svc__tol': 0.001}
+Best cross-validation accuracy: 0.8724497991967871
+Cross-validation complete, total 1.92s.
+
+Accuracy: 0.705
+Precision: 0.691
+Recall: 0.705
+F1-score: 0.692
+AUC-ROC: 0.888
+Testing dataset classification report:
+               precision    recall  f1-score   support
+
+         0.0       0.88      0.90      0.89        40
+         1.0       0.81      0.83      0.82        41
+         2.0       0.46      0.32      0.38        19
+         3.0       0.48      0.71      0.57        14
+         4.0       0.12      0.33      0.18         3
+         5.0       1.00      0.00      0.00         7
+         6.0       1.00      0.80      0.89         5
+
+    accuracy                           0.71       129
+   macro avg       0.68      0.56      0.53       129
+weighted avg       0.75      0.71      0.69       129
